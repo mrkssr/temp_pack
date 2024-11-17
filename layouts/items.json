@@ -1,0 +1,308 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "lime",
+                                "raisins",
+                                "dragauxstadium",
+                                "progressiveworld",
+                                "carrot",
+                                "radicchio",
+                                "jumpup,superstar!",
+                                "blueberries",
+                                "papaya",
+                                "blackcurrants",
+                                "peach"
+                            ],
+                            [
+                                "athletic2",
+                                "vanillaicecream",
+                                "breathofthewildmedley",
+                                "cranberries",
+                                "lemongrass",
+                                "athletic1",
+                                "matchapowder",
+                                "vinespinach",
+                                "melon",
+                                "hojichaleaves",
+                                "persimmon"
+                            ],
+                            [
+                                "fourmastersbattle",
+                                "groundthemebandperformance-supermariobros.",
+                                "pinkgrapefruit",
+                                "cabbage",
+                                "lettuce",
+                                "pumpkin",
+                                "basil",
+                                "apple",
+                                "splatoon2medley",
+                                "tomato",
+                                "wiifitmedley"
+                            ],
+                            [
+                                "gains",
+                                "apricot",
+                                "snowmountain",
+                                "onion",
+                                "progressivegymmembership",
+                                "pear",
+                                "mandarinorange",
+                                "prunes",
+                                "ashitaba",
+                                "greentealeaves",
+                                "coffeebeans"
+                            ],
+                            [
+                                "lavender",
+                                "fitbattle",
+                                "hydration",
+                                "asparagus",
+                                "sugar",
+                                "milk",
+                                "dragonfruit",
+                                "corn",
+                                "tatsoi",
+                                "ultimategreensmoothie",
+                                "ginger"
+                            ],
+                            [
+                                "ultimateredsmoothie",
+                                "soymilk",
+                                "spinach",
+                                "cinnamon",
+                                "grapefruit",
+                                "beefsteakplant",
+                                "mango",
+                                "arugula",
+                                "avocado",
+                                "lemon",
+                                "bloodorange"
+                            ],
+                            [
+                                "kefirgrains",
+                                "dragauxbattle",
+                                "parsley",
+                                "vinegar",
+                                "fennel",
+                                "ultimateyellowsmoothie",
+                                "whitesesameseeds",
+                                "chard",
+                                "grapes",
+                                "riverside",
+                                "creamcheese"
+                            ],
+                            [
+                                "cress",
+                                "mint",
+                                "almondmilk",
+                                "honey",
+                                "ultimatebluesmoothie",
+                                "pomegranate",
+                                "chiaseeds",
+                                "caramel",
+                                "raspberries",
+                                "strawberries",
+                                "bossbattle"
+                            ],
+                            [
+                                "carbonatedwater",
+                                "wheatgrass",
+                                "guava",
+                                "pineapple",
+                                "watermelon",
+                                "gelatin",
+                                "kiwi",
+                                "celery",
+                                "battlegym",
+                                "yogurt",
+                                "grassland"
+                            ],
+                            [
+                                "bananas",
+                                "blacktealeaves",
+                                "kale",
+                                "cherries",
+                                "nightroad",
+                                "plum",
+                                "orange",
+                                "fig",
+                                "update"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "lime",
+                                "raisins",
+                                "dragauxstadium",
+                                "progressiveworld",
+                                "carrot",
+                                "radicchio",
+                                "jumpup,superstar!",
+                                "blueberries",
+                                "papaya",
+                                "blackcurrants",
+                                "peach"
+                            ],
+                            [
+                                "athletic2",
+                                "vanillaicecream",
+                                "breathofthewildmedley",
+                                "cranberries",
+                                "lemongrass",
+                                "athletic1",
+                                "matchapowder",
+                                "vinespinach",
+                                "melon",
+                                "hojichaleaves",
+                                "persimmon"
+                            ],
+                            [
+                                "fourmastersbattle",
+                                "groundthemebandperformance-supermariobros.",
+                                "pinkgrapefruit",
+                                "cabbage",
+                                "lettuce",
+                                "pumpkin",
+                                "basil",
+                                "apple",
+                                "splatoon2medley",
+                                "tomato",
+                                "wiifitmedley"
+                            ],
+                            [
+                                "gains",
+                                "apricot",
+                                "snowmountain",
+                                "onion",
+                                "progressivegymmembership",
+                                "pear",
+                                "mandarinorange",
+                                "prunes",
+                                "ashitaba",
+                                "greentealeaves",
+                                "coffeebeans"
+                            ],
+                            [
+                                "lavender",
+                                "fitbattle",
+                                "hydration",
+                                "asparagus",
+                                "sugar",
+                                "milk",
+                                "dragonfruit",
+                                "corn",
+                                "tatsoi",
+                                "ultimategreensmoothie",
+                                "ginger"
+                            ],
+                            [
+                                "ultimateredsmoothie",
+                                "soymilk",
+                                "spinach",
+                                "cinnamon",
+                                "grapefruit",
+                                "beefsteakplant",
+                                "mango",
+                                "arugula",
+                                "avocado",
+                                "lemon",
+                                "bloodorange"
+                            ],
+                            [
+                                "kefirgrains",
+                                "dragauxbattle",
+                                "parsley",
+                                "vinegar",
+                                "fennel",
+                                "ultimateyellowsmoothie",
+                                "whitesesameseeds",
+                                "chard",
+                                "grapes",
+                                "riverside",
+                                "creamcheese"
+                            ],
+                            [
+                                "cress",
+                                "mint",
+                                "almondmilk",
+                                "honey",
+                                "ultimatebluesmoothie",
+                                "pomegranate",
+                                "chiaseeds",
+                                "caramel",
+                                "raspberries",
+                                "strawberries",
+                                "bossbattle"
+                            ],
+                            [
+                                "carbonatedwater",
+                                "wheatgrass",
+                                "guava",
+                                "pineapple",
+                                "watermelon",
+                                "gelatin",
+                                "kiwi",
+                                "celery",
+                                "battlegym",
+                                "yogurt",
+                                "grassland"
+                            ],
+                            [
+                                "bananas",
+                                "blacktealeaves",
+                                "kale",
+                                "cherries",
+                                "nightroad",
+                                "plum",
+                                "orange",
+                                "fig",
+                                "update"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

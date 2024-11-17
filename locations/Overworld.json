@@ -1,0 +1,2767 @@
+[
+    {
+        "name": "Overworld Hints",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "children": [
+            {
+                "name": "Moves - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Red - Overhead Press - hint",
+                        "ref": "Moves - hint/Red - hint/Overhead Press - hint"
+                    },
+                    {
+                        "name": "Red - Front Press - hint",
+                        "ref": "Moves - hint/Red - hint/Front Press - hint"
+                    },
+                    {
+                        "name": "Red - Bow Pull - hint",
+                        "ref": "Moves - hint/Red - hint/Bow Pull - hint"
+                    },
+                    {
+                        "name": "Red - Overhead Arm Twist - hint",
+                        "ref": "Moves - hint/Red - hint/Overhead Arm Twist - hint"
+                    },
+                    {
+                        "name": "Red - Overhead Arm Spin - hint",
+                        "ref": "Moves - hint/Red - hint/Overhead Arm Spin - hint"
+                    },
+                    {
+                        "name": "Red - Shoulder Press - hint",
+                        "ref": "Moves - hint/Red - hint/Shoulder Press - hint"
+                    },
+                    {
+                        "name": "Red - Tricep Kickback - hint",
+                        "ref": "Moves - hint/Red - hint/Tricep Kickback - hint"
+                    },
+                    {
+                        "name": "Red - Back Press - hint",
+                        "ref": "Moves - hint/Red - hint/Back Press - hint"
+                    },
+                    {
+                        "name": "Yellow - Knee-to-Chest - hint",
+                        "ref": "Moves - hint/Yellow - hint/Knee-to-Chest - hint"
+                    },
+                    {
+                        "name": "Yellow - Standing Twist - hint",
+                        "ref": "Moves - hint/Yellow - hint/Standing Twist - hint"
+                    },
+                    {
+                        "name": "Yellow - Plank - hint",
+                        "ref": "Moves - hint/Yellow - hint/Plank - hint"
+                    },
+                    {
+                        "name": "Yellow - Overhead Bend - hint",
+                        "ref": "Moves - hint/Yellow - hint/Overhead Bend - hint"
+                    },
+                    {
+                        "name": "Yellow - Open & Close Leg Raise - hint",
+                        "ref": "Moves - hint/Yellow - hint/Open & Close Leg Raise - hint"
+                    },
+                    {
+                        "name": "Yellow - Overhead Hip Shake - hint",
+                        "ref": "Moves - hint/Yellow - hint/Overhead Hip Shake - hint"
+                    },
+                    {
+                        "name": "Yellow - Seated Forward Press - hint",
+                        "ref": "Moves - hint/Yellow - hint/Seated Forward Press - hint"
+                    },
+                    {
+                        "name": "Yellow - Overhead Lunge Twist - hint",
+                        "ref": "Moves - hint/Yellow - hint/Overhead Lunge Twist - hint"
+                    },
+                    {
+                        "name": "Yellow - Leg Raise - hint",
+                        "ref": "Moves - hint/Yellow - hint/Leg Raise - hint"
+                    },
+                    {
+                        "name": "Yellow - Flutter Kick - hint",
+                        "ref": "Moves - hint/Yellow - hint/Flutter Kick - hint"
+                    },
+                    {
+                        "name": "Yellow - Pendulum Bend - hint",
+                        "ref": "Moves - hint/Yellow - hint/Pendulum Bend - hint"
+                    },
+                    {
+                        "name": "Yellow - Leg Scissors - hint",
+                        "ref": "Moves - hint/Yellow - hint/Leg Scissors - hint"
+                    },
+                    {
+                        "name": "Yellow - Russian Twist - hint",
+                        "ref": "Moves - hint/Yellow - hint/Russian Twist - hint"
+                    },
+                    {
+                        "name": "Yellow - Overhead Side Bend - hint",
+                        "ref": "Moves - hint/Yellow - hint/Overhead Side Bend - hint"
+                    },
+                    {
+                        "name": "Yellow - Seated Ring Raise - hint",
+                        "ref": "Moves - hint/Yellow - hint/Seated Ring Raise - hint"
+                    },
+                    {
+                        "name": "Blue - Squat - hint",
+                        "ref": "Moves - hint/Blue - hint/Squat - hint"
+                    },
+                    {
+                        "name": "Blue - Knee Lift - hint",
+                        "ref": "Moves - hint/Blue - hint/Knee Lift - hint"
+                    },
+                    {
+                        "name": "Blue - Thigh Press - hint",
+                        "ref": "Moves - hint/Blue - hint/Thigh Press - hint"
+                    },
+                    {
+                        "name": "Blue - Wide Squat - hint",
+                        "ref": "Moves - hint/Blue - hint/Wide Squat - hint"
+                    },
+                    {
+                        "name": "Blue - Hip Lift - hint",
+                        "ref": "Moves - hint/Blue - hint/Hip Lift - hint"
+                    },
+                    {
+                        "name": "Blue - Ring Raise Combo - hint",
+                        "ref": "Moves - hint/Blue - hint/Ring Raise Combo - hint"
+                    },
+                    {
+                        "name": "Blue - Overhead Squat - hint",
+                        "ref": "Moves - hint/Blue - hint/Overhead Squat - hint"
+                    },
+                    {
+                        "name": "Blue - Mountain Climber - hint",
+                        "ref": "Moves - hint/Blue - hint/Mountain Climber - hint"
+                    },
+                    {
+                        "name": "Blue - Side Step - hint",
+                        "ref": "Moves - hint/Blue - hint/Side Step - hint"
+                    },
+                    {
+                        "name": "Blue - Knee-Lift Combo - hint",
+                        "ref": "Moves - hint/Blue - hint/Knee-Lift Combo - hint"
+                    },
+                    {
+                        "name": "Green - Chair Pose - hint",
+                        "ref": "Moves - hint/Green - hint/Chair Pose - hint"
+                    },
+                    {
+                        "name": "Green - Warrior I Pose - hint",
+                        "ref": "Moves - hint/Green - hint/Warrior I Pose - hint"
+                    },
+                    {
+                        "name": "Green - Fan Pose - hint",
+                        "ref": "Moves - hint/Green - hint/Fan Pose - hint"
+                    },
+                    {
+                        "name": "Green - Warrior II Pose - hint",
+                        "ref": "Moves - hint/Green - hint/Warrior II Pose - hint"
+                    },
+                    {
+                        "name": "Green - Revolved Crescent Lunge Pose - hint",
+                        "ref": "Moves - hint/Green - hint/Revolved Crescent Lunge Pose - hint"
+                    },
+                    {
+                        "name": "Green - Warrior III Pose - hint",
+                        "ref": "Moves - hint/Green - hint/Warrior III Pose - hint"
+                    },
+                    {
+                        "name": "Green - Hinge Pose - hint",
+                        "ref": "Moves - hint/Green - hint/Hinge Pose - hint"
+                    },
+                    {
+                        "name": "Green - Tree Pose - hint",
+                        "ref": "Moves - hint/Green - hint/Tree Pose - hint"
+                    },
+                    {
+                        "name": "Green - Standing Forward Fold - hint",
+                        "ref": "Moves - hint/Green - hint/Standing Forward Fold - hint"
+                    },
+                    {
+                        "name": "Green - Boat Pose - hint",
+                        "ref": "Moves - hint/Green - hint/Boat Pose - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1155",
+                        "y": "695",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Rhythm Games - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Rhythm Games - Fit Battle - hint",
+                        "ref": "Rhythm Games - hint/Fit Battle - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Boss Battle - hint",
+                        "ref": "Rhythm Games - hint/Boss Battle - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Four Masters Battle - hint",
+                        "ref": "Rhythm Games - hint/Four Masters Battle - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Battle Gym - hint",
+                        "ref": "Rhythm Games - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Dragaux Battle - hint",
+                        "ref": "Rhythm Games - hint/Dragaux Battle - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Grassland - hint",
+                        "ref": "Rhythm Games - hint/Grassland - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Riverside - hint",
+                        "ref": "Rhythm Games - hint/Riverside - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Snow Mountain - hint",
+                        "ref": "Rhythm Games - hint/Snow Mountain - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Night Road - hint",
+                        "ref": "Rhythm Games - hint/Night Road - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Athletic 1 - hint",
+                        "ref": "Rhythm Games - hint/Athletic 1 - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Athletic 2 - hint",
+                        "ref": "Rhythm Games - hint/Athletic 2 - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Dragaux Stadium - hint",
+                        "ref": "Rhythm Games - hint/Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Jump Up, Super Star! - hint",
+                        "ref": "Rhythm Games - hint/Jump Up, Super Star! - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Ground Theme Band Performance - Super Mario Bros. - hint",
+                        "ref": "Rhythm Games - hint/Ground Theme Band Performance - Super Mario Bros. - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Breath of the Wild Medley - hint",
+                        "ref": "Rhythm Games - hint/Breath of the Wild Medley - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Splatoon 2 Medley - hint",
+                        "ref": "Rhythm Games - hint/Splatoon 2 Medley - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Wii Fit Medley - hint",
+                        "ref": "Rhythm Games - hint/Wii Fit Medley - hint"
+                    },
+                    {
+                        "name": "Rhythm Games - Gainful Boss Fight - hint",
+                        "ref": "Rhythm Games - hint/Gainful Boss Fight - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2449",
+                        "y": "1333",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Smoothies - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Smoothies - Ultimate Red Smoothie - hint",
+                        "ref": "Smoothies - hint/Ultimate Red Smoothie - hint"
+                    },
+                    {
+                        "name": "Smoothies - Ultimate Yellow Smoothie - hint",
+                        "ref": "Smoothies - hint/Ultimate Yellow Smoothie - hint"
+                    },
+                    {
+                        "name": "Smoothies - Ultimate Blue Smoothie - hint",
+                        "ref": "Smoothies - hint/Ultimate Blue Smoothie - hint"
+                    },
+                    {
+                        "name": "Smoothies - Ultimate Green Smoothie - hint",
+                        "ref": "Smoothies - hint/Ultimate Green Smoothie - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "503",
+                        "y": "573",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Worlds",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "World 1 - 01. Beginnia"
+                    },
+                    {
+                        "name": "World 1 - 01. Transient Temple"
+                    },
+                    {
+                        "name": "World 1 - 01. Dragaux Stadium"
+                    },
+                    {
+                        "name": "02. Gym - Robo Wrecker - hint",
+                        "ref": "Worlds - hint/World 2 - hint/02. Gym - hint/Robo Wrecker - hint"
+                    },
+                    {
+                        "name": "World 2 - 02. Nightcloak Pass - hint",
+                        "ref": "Worlds - hint/World 2 - hint/02. Nightcloak Pass - hint"
+                    },
+                    {
+                        "name": "World 2 - 02. Dashalong Tower - hint",
+                        "ref": "Worlds - hint/World 2 - hint/02. Dashalong Tower - hint"
+                    },
+                    {
+                        "name": "World 2 - 02. Disturbance Meadow - hint",
+                        "ref": "Worlds - hint/World 2 - hint/02. Disturbance Meadow - hint"
+                    },
+                    {
+                        "name": "World 2 - 02. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 2 - hint/02. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "03. Gym - Gluting Gallery - hint",
+                        "ref": "Worlds - hint/World 3 - hint/03. Gym - hint/Gluting Gallery - hint"
+                    },
+                    {
+                        "name": "03. Gym - Squat Goals - hint",
+                        "ref": "Worlds - hint/World 3 - hint/03. Gym - hint/Squat Goals - hint"
+                    },
+                    {
+                        "name": "World 3 - 03. Treasure Pass - hint",
+                        "ref": "Worlds - hint/World 3 - hint/03. Treasure Pass - hint"
+                    },
+                    {
+                        "name": "World 3 - 03. General Factory - hint",
+                        "ref": "Worlds - hint/World 3 - hint/03. General Factory - hint"
+                    },
+                    {
+                        "name": "World 3 - 03. Bridge of Insight - hint",
+                        "ref": "Worlds - hint/World 3 - hint/03. Bridge of Insight - hint"
+                    },
+                    {
+                        "name": "World 3 - 03. Hopskip Corridor - hint",
+                        "ref": "Worlds - hint/World 3 - hint/03. Hopskip Corridor - hint"
+                    },
+                    {
+                        "name": "World 3 - 03. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 3 - hint/03. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "04. Gym - Crate Crasher - hint",
+                        "ref": "Worlds - hint/World 4 - hint/04. Gym - hint/Crate Crasher - hint"
+                    },
+                    {
+                        "name": "04. Gym - Core Crushing - hint",
+                        "ref": "Worlds - hint/World 4 - hint/04. Gym - hint/Core Crushing - hint"
+                    },
+                    {
+                        "name": "World 4 - 04. Sportan Waters - hint",
+                        "ref": "Worlds - hint/World 4 - hint/04. Sportan Waters - hint"
+                    },
+                    {
+                        "name": "World 4 - 04. Sportan Swamp - hint",
+                        "ref": "Worlds - hint/World 4 - hint/04. Sportan Swamp - hint"
+                    },
+                    {
+                        "name": "World 4 - 04. Sporta Bridge - hint",
+                        "ref": "Worlds - hint/World 4 - hint/04. Sporta Bridge - hint"
+                    },
+                    {
+                        "name": "World 4 - 04. Dojo Sporta - hint",
+                        "ref": "Worlds - hint/World 4 - hint/04. Dojo Sporta - hint"
+                    },
+                    {
+                        "name": "World 4 - 04. Sportan Highway - hint",
+                        "ref": "Worlds - hint/World 4 - hint/04. Sportan Highway - hint"
+                    },
+                    {
+                        "name": "World 4 - 04. Sporta Treasury - hint",
+                        "ref": "Worlds - hint/World 4 - hint/04. Sporta Treasury - hint"
+                    },
+                    {
+                        "name": "World 4 - 04. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 4 - hint/04. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "World 4 - 04. Out-Of-The-Way Way - hint",
+                        "ref": "Worlds - hint/World 4 - hint/04. Out-Of-The-Way Way - hint"
+                    },
+                    {
+                        "name": "05. Gym - Legs Set - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Gym - hint/Legs Set - hint"
+                    },
+                    {
+                        "name": "05. Gym - Aerochute - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Gym - hint/Aerochute - hint"
+                    },
+                    {
+                        "name": "05. Gym - Bank Balance - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Gym - hint/Bank Balance - hint"
+                    },
+                    {
+                        "name": "05. Gym - Bootstrap Tower - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Gym - hint/Bootstrap Tower - hint"
+                    },
+                    {
+                        "name": "05. Gym - Thigh Rider - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Gym - hint/Thigh Rider - hint"
+                    },
+                    {
+                        "name": "World 5 - 05. Exertion River - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Exertion River - hint"
+                    },
+                    {
+                        "name": "World 5 - 05. Twilight Highway - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Twilight Highway - hint"
+                    },
+                    {
+                        "name": "World 5 - 05. Loot Pass - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Loot Pass - hint"
+                    },
+                    {
+                        "name": "World 5 - 05. Armie Temple - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Armie Temple - hint"
+                    },
+                    {
+                        "name": "World 5 - 05. Arms-Race Gym - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Arms-Race Gym - hint"
+                    },
+                    {
+                        "name": "World 5 - 05. Stopfoot Waters - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Stopfoot Waters - hint"
+                    },
+                    {
+                        "name": "World 5 - 05. Birdseye Mountain Trail - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Birdseye Mountain Trail - hint"
+                    },
+                    {
+                        "name": "World 5 - 05. Exertion Corridor - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Exertion Corridor - hint"
+                    },
+                    {
+                        "name": "World 5 - 05. Leap-of-Faith Falls - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Leap-of-Faith Falls - hint"
+                    },
+                    {
+                        "name": "World 5 - 05. Temple of Balance - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Temple of Balance - hint"
+                    },
+                    {
+                        "name": "World 5 - 05. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 5 - hint/05. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "06. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 6 - hint/06. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "06. Gym - Smack Back - hint",
+                        "ref": "Worlds - hint/World 6 - hint/06. Gym - hint/Smack Back - hint"
+                    },
+                    {
+                        "name": "06. Gym - Robo-Wrecker - hint",
+                        "ref": "Worlds - hint/World 6 - hint/06. Gym - hint/Robo-Wrecker - hint"
+                    },
+                    {
+                        "name": "06. Gym - Squattery Wheel - hint",
+                        "ref": "Worlds - hint/World 6 - hint/06. Gym - hint/Squattery Wheel - hint"
+                    },
+                    {
+                        "name": "World 6 - 06. Beaut Camp - hint",
+                        "ref": "Worlds - hint/World 6 - hint/06. Beaut Camp - hint"
+                    },
+                    {
+                        "name": "World 6 - 06. Six Park - hint",
+                        "ref": "Worlds - hint/World 6 - hint/06. Six Park - hint"
+                    },
+                    {
+                        "name": "World 6 - 06. Arms-Race Gym - hint",
+                        "ref": "Worlds - hint/World 6 - hint/06. Arms-Race Gym - hint"
+                    },
+                    {
+                        "name": "World 6 - 06. Temple of Balance - hint",
+                        "ref": "Worlds - hint/World 6 - hint/06. Temple of Balance - hint"
+                    },
+                    {
+                        "name": "World 6 - 06. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 6 - hint/06. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "07. Gym - Glutes Set - hint",
+                        "ref": "Worlds - hint/World 7 - hint/07. Gym - hint/Glutes Set - hint"
+                    },
+                    {
+                        "name": "07. Gym - Core Crushing - hint",
+                        "ref": "Worlds - hint/World 7 - hint/07. Gym - hint/Core Crushing - hint"
+                    },
+                    {
+                        "name": "07. Gym - Gluting Gallery - hint",
+                        "ref": "Worlds - hint/World 7 - hint/07. Gym - hint/Gluting Gallery - hint"
+                    },
+                    {
+                        "name": "07. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 7 - hint/07. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "07. Gym - Squat Camp - hint",
+                        "ref": "Worlds - hint/World 7 - hint/07. Gym - hint/Squat Camp - hint"
+                    },
+                    {
+                        "name": "World 7 - 07. Swing Gate - hint",
+                        "ref": "Worlds - hint/World 7 - hint/07. Swing Gate - hint"
+                    },
+                    {
+                        "name": "World 7 - 07. Starting-Block Bridge - hint",
+                        "ref": "Worlds - hint/World 7 - hint/07. Starting-Block Bridge - hint"
+                    },
+                    {
+                        "name": "World 7 - 07. Trotter's Grove - hint",
+                        "ref": "Worlds - hint/World 7 - hint/07. Trotter's Grove - hint"
+                    },
+                    {
+                        "name": "World 7 - 07. Beaut Camp - hint",
+                        "ref": "Worlds - hint/World 7 - hint/07. Beaut Camp - hint"
+                    },
+                    {
+                        "name": "World 7 - 07. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 7 - hint/07. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "08. Gym - Crate Crasher - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Gym - hint/Crate Crasher - hint"
+                    },
+                    {
+                        "name": "08. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "08. Gym - Thigh Rider - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Gym - hint/Thigh Rider - hint"
+                    },
+                    {
+                        "name": "08. Gym - Bank Balance - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Gym - hint/Bank Balance - hint"
+                    },
+                    {
+                        "name": "08. Gym - Battle Gym 2 - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Gym - hint/Battle Gym 2 - hint"
+                    },
+                    {
+                        "name": "World 8 - 08. Gutterflow Temple - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Gutterflow Temple - hint"
+                    },
+                    {
+                        "name": "World 8 - 08. Drench Trench - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Drench Trench - hint"
+                    },
+                    {
+                        "name": "World 8 - 08. Talisman Trail - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Talisman Trail - hint"
+                    },
+                    {
+                        "name": "World 8 - 08. Springboard Shrine - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Springboard Shrine - hint"
+                    },
+                    {
+                        "name": "World 8 - 08. Dangling Overpass - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Dangling Overpass - hint"
+                    },
+                    {
+                        "name": "World 8 - 08. Secluded Shrine Approach - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Secluded Shrine Approach - hint"
+                    },
+                    {
+                        "name": "World 8 - 08. Solar Plexia Academy - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Solar Plexia Academy - hint"
+                    },
+                    {
+                        "name": "World 8 - 08. Solar Plexia's Shrine - hint",
+                        "ref": "Worlds - hint/World 8 - hint/08. Solar Plexia's Shrine - hint"
+                    },
+                    {
+                        "name": "09. Gym - Dreadmill - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Gym - hint/Dreadmill - hint"
+                    },
+                    {
+                        "name": "09. Gym - Smack Back - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Gym - hint/Smack Back - hint"
+                    },
+                    {
+                        "name": "09. Gym - Chest Set - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Gym - hint/Chest Set - hint"
+                    },
+                    {
+                        "name": "09. Gym - Squattery Wheel - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Gym - hint/Squattery Wheel - hint"
+                    },
+                    {
+                        "name": "09. Gym - Bootstrap Tower - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Gym - hint/Bootstrap Tower - hint"
+                    },
+                    {
+                        "name": "World 9 - 09. No-Brakes Mine - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. No-Brakes Mine - hint"
+                    },
+                    {
+                        "name": "World 9 - 09. Flyover Wilds - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Flyover Wilds - hint"
+                    },
+                    {
+                        "name": "World 9 - 09. Arms-Race Gym - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Arms-Race Gym - hint"
+                    },
+                    {
+                        "name": "World 9 - 09. Beltline Tower - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Beltline Tower - hint"
+                    },
+                    {
+                        "name": "World 9 - 09. Pushpull Shrine - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Pushpull Shrine - hint"
+                    },
+                    {
+                        "name": "World 9 - 09. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "World 9 - 09. Otherside Street - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Otherside Street - hint"
+                    },
+                    {
+                        "name": "World 9 - 09. Otherside Waterway - hint",
+                        "ref": "Worlds - hint/World 9 - hint/09. Otherside Waterway - hint"
+                    },
+                    {
+                        "name": "10. Gym - Gluting Gallery - hint",
+                        "ref": "Worlds - hint/World 10 - hint/10. Gym - hint/Gluting Gallery - hint"
+                    },
+                    {
+                        "name": "10. Gym - Robo-Wrecker - hint",
+                        "ref": "Worlds - hint/World 10 - hint/10. Gym - hint/Robo-Wrecker - hint"
+                    },
+                    {
+                        "name": "10. Gym - Squat Goals - hint",
+                        "ref": "Worlds - hint/World 10 - hint/10. Gym - hint/Squat Goals - hint"
+                    },
+                    {
+                        "name": "10. Gym - Thigh Rider - hint",
+                        "ref": "Worlds - hint/World 10 - hint/10. Gym - hint/Thigh Rider - hint"
+                    },
+                    {
+                        "name": "10. Gym - Aerochute - hint",
+                        "ref": "Worlds - hint/World 10 - hint/10. Gym - hint/Aerochute - hint"
+                    },
+                    {
+                        "name": "10. Gym - Core Crushing - hint",
+                        "ref": "Worlds - hint/World 10 - hint/10. Gym - hint/Core Crushing - hint"
+                    },
+                    {
+                        "name": "World 10 - 10. Finishing School - hint",
+                        "ref": "Worlds - hint/World 10 - hint/10. Finishing School - hint"
+                    },
+                    {
+                        "name": "World 10 - 10. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 10 - hint/10. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "World 10 - 10. Floating Waterway - hint",
+                        "ref": "Worlds - hint/World 10 - hint/10. Floating Waterway - hint"
+                    },
+                    {
+                        "name": "World 10 - 10. Fusion Waterway - hint",
+                        "ref": "Worlds - hint/World 10 - hint/10. Fusion Waterway - hint"
+                    },
+                    {
+                        "name": "11. Gym - Dreadmill - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Gym - hint/Dreadmill - hint"
+                    },
+                    {
+                        "name": "11. Gym - Waist Set - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Gym - hint/Waist Set - hint"
+                    },
+                    {
+                        "name": "11. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "11. Gym - Battle Gym 2 - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Gym - hint/Battle Gym 2 - hint"
+                    },
+                    {
+                        "name": "11. Gym - Bank Balance - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Gym - hint/Bank Balance - hint"
+                    },
+                    {
+                        "name": "11. Gym - Crate Crasher - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Gym - hint/Crate Crasher - hint"
+                    },
+                    {
+                        "name": "World 11 - 11. Rumbling Road - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Rumbling Road - hint"
+                    },
+                    {
+                        "name": "World 11 - 11. Sunset Road - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Sunset Road - hint"
+                    },
+                    {
+                        "name": "World 11 - 11. Athlete's Road - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Athlete's Road - hint"
+                    },
+                    {
+                        "name": "World 11 - 11. Cowardly Strongman's House - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Cowardly Strongman's House - hint"
+                    },
+                    {
+                        "name": "World 11 - 11. Soak Road - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Soak Road - hint"
+                    },
+                    {
+                        "name": "World 11 - 11. Hasty Highway - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Hasty Highway - hint"
+                    },
+                    {
+                        "name": "World 11 - 11. River Road - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. River Road - hint"
+                    },
+                    {
+                        "name": "World 11 - 11. Twilight Road - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Twilight Road - hint"
+                    },
+                    {
+                        "name": "World 11 - 11. Valley of Wishes - hint",
+                        "ref": "Worlds - hint/World 11 - hint/11. Valley of Wishes - hint"
+                    },
+                    {
+                        "name": "12. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 12 - hint/12. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "12. Gym - Flexibility Set - hint",
+                        "ref": "Worlds - hint/World 12 - hint/12. Gym - hint/Flexibility Set - hint"
+                    },
+                    {
+                        "name": "World 12 - 12. Clever-Trick Temple - hint",
+                        "ref": "Worlds - hint/World 12 - hint/12. Clever-Trick Temple - hint"
+                    },
+                    {
+                        "name": "World 12 - 12. Mt. Fearmenot - hint",
+                        "ref": "Worlds - hint/World 12 - hint/12. Mt. Fearmenot - hint"
+                    },
+                    {
+                        "name": "World 12 - 12. Monster Den - hint",
+                        "ref": "Worlds - hint/World 12 - hint/12. Monster Den - hint"
+                    },
+                    {
+                        "name": "World 12 - 12. Upsurge Studio - hint",
+                        "ref": "Worlds - hint/World 12 - hint/12. Upsurge Studio - hint"
+                    },
+                    {
+                        "name": "World 12 - 12. Soleus Gold Mine - hint",
+                        "ref": "Worlds - hint/World 12 - hint/12. Soleus Gold Mine - hint"
+                    },
+                    {
+                        "name": "World 12 - 12. Tornado Temple - hint",
+                        "ref": "Worlds - hint/World 12 - hint/12. Tornado Temple - hint"
+                    },
+                    {
+                        "name": "World 12 - 12. Fluttering Heights - hint",
+                        "ref": "Worlds - hint/World 12 - hint/12. Fluttering Heights - hint"
+                    },
+                    {
+                        "name": "World 12 - 12. Temple of Balance - hint",
+                        "ref": "Worlds - hint/World 12 - hint/12. Temple of Balance - hint"
+                    },
+                    {
+                        "name": "13. Gym - Squattery Wheel - hint",
+                        "ref": "Worlds - hint/World 13 - hint/13. Gym - hint/Squattery Wheel - hint"
+                    },
+                    {
+                        "name": "13. Gym - Smack Back - hint",
+                        "ref": "Worlds - hint/World 13 - hint/13. Gym - hint/Smack Back - hint"
+                    },
+                    {
+                        "name": "13. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 13 - hint/13. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "13. Gym - Posture Set - hint",
+                        "ref": "Worlds - hint/World 13 - hint/13. Gym - hint/Posture Set - hint"
+                    },
+                    {
+                        "name": "World 13 - 13. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 13 - hint/13. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "14. Gym - Bootstrap Tower - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Gym - hint/Bootstrap Tower - hint"
+                    },
+                    {
+                        "name": "14. Gym - Abs Set - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Gym - hint/Abs Set - hint"
+                    },
+                    {
+                        "name": "14. Gym - Aerochute - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Gym - hint/Aerochute - hint"
+                    },
+                    {
+                        "name": "14. Gym - Thigh Rider - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Gym - hint/Thigh Rider - hint"
+                    },
+                    {
+                        "name": "14. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "World 14 - 14. Missed Highway - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Missed Highway - hint"
+                    },
+                    {
+                        "name": "World 14 - 14. Misty Corridor - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Misty Corridor - hint"
+                    },
+                    {
+                        "name": "World 14 - 14. Steadfast Road - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Steadfast Road - hint"
+                    },
+                    {
+                        "name": "World 14 - 14. Invisible Temple - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Invisible Temple - hint"
+                    },
+                    {
+                        "name": "World 14 - 14. High-Roller Complex - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. High-Roller Complex - hint"
+                    },
+                    {
+                        "name": "World 14 - 14. Ghostship Tower - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Ghostship Tower - hint"
+                    },
+                    {
+                        "name": "World 14 - 14. Turmoil Territory - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Turmoil Territory - hint"
+                    },
+                    {
+                        "name": "World 14 - 14. Gazelle Channel - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Gazelle Channel - hint"
+                    },
+                    {
+                        "name": "World 14 - 14. Disappearance Path - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Disappearance Path - hint"
+                    },
+                    {
+                        "name": "World 14 - 14. Six Park - hint",
+                        "ref": "Worlds - hint/World 14 - hint/14. Six Park - hint"
+                    },
+                    {
+                        "name": "15. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. Upper Road - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. Upper Road - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. Lower Road - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. Lower Road - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. North Road - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. North Road - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. South Road - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. South Road - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. Aerohead Road - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. Aerohead Road - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. Sedentary Swamp - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. Sedentary Swamp - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. Condensation Corridor - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. Condensation Corridor - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. Hot Spot - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. Hot Spot - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. Squat Square - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. Squat Square - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. Benchpress Battleground - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. Benchpress Battleground - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. Redflag Ring - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. Redflag Ring - hint"
+                    },
+                    {
+                        "name": "World 15 - 15. Stumper Tower - hint",
+                        "ref": "Worlds - hint/World 15 - hint/15. Stumper Tower - hint"
+                    },
+                    {
+                        "name": "16. Gym - Bank Balance - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Gym - hint/Bank Balance - hint"
+                    },
+                    {
+                        "name": "16. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "16. Gym - Squat Goals - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Gym - hint/Squat Goals - hint"
+                    },
+                    {
+                        "name": "16. Gym - Gluting Gallery - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Gym - hint/Gluting Gallery - hint"
+                    },
+                    {
+                        "name": "16. Gym - Crate Crasher - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Gym - hint/Crate Crasher - hint"
+                    },
+                    {
+                        "name": "16. Gym - Dreadmill - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Gym - hint/Dreadmill - hint"
+                    },
+                    {
+                        "name": "16. Gym - Lower Body Set - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Gym - hint/Lower Body Set - hint"
+                    },
+                    {
+                        "name": "World 16 - 16. Wingflap Falls - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Wingflap Falls - hint"
+                    },
+                    {
+                        "name": "World 16 - 16. Flyover Pass - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Flyover Pass - hint"
+                    },
+                    {
+                        "name": "World 16 - 16. Scrambled Wasteland - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Scrambled Wasteland - hint"
+                    },
+                    {
+                        "name": "World 16 - 16. Beaut Camp - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Beaut Camp - hint"
+                    },
+                    {
+                        "name": "World 16 - 16. Flutterpeak Pass - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Flutterpeak Pass - hint"
+                    },
+                    {
+                        "name": "World 16 - 16. Piston-Pump Rail - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Piston-Pump Rail - hint"
+                    },
+                    {
+                        "name": "World 16 - 16. Pushover Corridor - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Pushover Corridor - hint"
+                    },
+                    {
+                        "name": "World 16 - 16. Perseverance Valley - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Perseverance Valley - hint"
+                    },
+                    {
+                        "name": "World 16 - 16. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 16 - hint/16. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "17. Gym - Squattery Wheel - hint",
+                        "ref": "Worlds - hint/World 17 - hint/17. Gym - hint/Squattery Wheel - hint"
+                    },
+                    {
+                        "name": "17. Gym - Stamina Set - hint",
+                        "ref": "Worlds - hint/World 17 - hint/17. Gym - hint/Stamina Set - hint"
+                    },
+                    {
+                        "name": "17. Gym - Robo-Wrecker - hint",
+                        "ref": "Worlds - hint/World 17 - hint/17. Gym - hint/Robo-Wrecker - hint"
+                    },
+                    {
+                        "name": "17. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 17 - hint/17. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "17. Gym - Bootstrap Tower - hint",
+                        "ref": "Worlds - hint/World 17 - hint/17. Gym - hint/Bootstrap Tower - hint"
+                    },
+                    {
+                        "name": "World 17 - 17. Hamstring Marsh - hint",
+                        "ref": "Worlds - hint/World 17 - hint/17. Hamstring Marsh - hint"
+                    },
+                    {
+                        "name": "World 17 - 17. Sweat Street - hint",
+                        "ref": "Worlds - hint/World 17 - hint/17. Sweat Street - hint"
+                    },
+                    {
+                        "name": "World 17 - 17. Hangon Bridge - hint",
+                        "ref": "Worlds - hint/World 17 - hint/17. Hangon Bridge - hint"
+                    },
+                    {
+                        "name": "World 17 - 17. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 17 - hint/17. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "World 17 - 17. Backways Path - hint",
+                        "ref": "Worlds - hint/World 17 - hint/17. Backways Path - hint"
+                    },
+                    {
+                        "name": "World 17 - 17. Inside Strait - hint",
+                        "ref": "Worlds - hint/World 17 - hint/17. Inside Strait - hint"
+                    },
+                    {
+                        "name": "18. Gym - Aerochute - hint",
+                        "ref": "Worlds - hint/World 18 - hint/18. Gym - hint/Aerochute - hint"
+                    },
+                    {
+                        "name": "18. Gym - Core Crushing - hint",
+                        "ref": "Worlds - hint/World 18 - hint/18. Gym - hint/Core Crushing - hint"
+                    },
+                    {
+                        "name": "18. Gym - Shoulders Set - hint",
+                        "ref": "Worlds - hint/World 18 - hint/18. Gym - hint/Shoulders Set - hint"
+                    },
+                    {
+                        "name": "World 18 - 18. Shivering Valley - hint",
+                        "ref": "Worlds - hint/World 18 - hint/18. Shivering Valley - hint"
+                    },
+                    {
+                        "name": "World 18 - 18. Wintry Watchtower - hint",
+                        "ref": "Worlds - hint/World 18 - hint/18. Wintry Watchtower - hint"
+                    },
+                    {
+                        "name": "World 18 - 18. Snowflurry Valley - hint",
+                        "ref": "Worlds - hint/World 18 - hint/18. Snowflurry Valley - hint"
+                    },
+                    {
+                        "name": "World 18 - 18. Freezing Freeway - hint",
+                        "ref": "Worlds - hint/World 18 - hint/18. Freezing Freeway - hint"
+                    },
+                    {
+                        "name": "World 18 - 18. Rail to the Chief - hint",
+                        "ref": "Worlds - hint/World 18 - hint/18. Rail to the Chief - hint"
+                    },
+                    {
+                        "name": "World 18 - 18. Chief's Foyer - hint",
+                        "ref": "Worlds - hint/World 18 - hint/18. Chief's Foyer - hint"
+                    },
+                    {
+                        "name": "World 18 - 18. Chief's House - hint",
+                        "ref": "Worlds - hint/World 18 - hint/18. Chief's House - hint"
+                    },
+                    {
+                        "name": "19. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "19. Gym - Upper Arms Set - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Gym - hint/Upper Arms Set - hint"
+                    },
+                    {
+                        "name": "19. Gym - Battle Gym 2 - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Gym - hint/Battle Gym 2 - hint"
+                    },
+                    {
+                        "name": "19. Gym - Smack Back - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Gym - hint/Smack Back - hint"
+                    },
+                    {
+                        "name": "19. Gym - Thigh Rider - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Gym - hint/Thigh Rider - hint"
+                    },
+                    {
+                        "name": "19. Gym - Dreadmill - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Gym - hint/Dreadmill - hint"
+                    },
+                    {
+                        "name": "World 19 - 19. Ohohwan River - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Ohohwan River - hint"
+                    },
+                    {
+                        "name": "World 19 - 19. Wanoh Hills - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Wanoh Hills - hint"
+                    },
+                    {
+                        "name": "World 19 - 19. Ohwanoh Factory - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Ohwanoh Factory - hint"
+                    },
+                    {
+                        "name": "World 19 - 19. Heave-Ho Checkpoint - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Heave-Ho Checkpoint - hint"
+                    },
+                    {
+                        "name": "World 19 - 19. Ohoh Valley - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Ohoh Valley - hint"
+                    },
+                    {
+                        "name": "World 19 - 19. Ohwanwan Route - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Ohwanwan Route - hint"
+                    },
+                    {
+                        "name": "World 19 - 19. Wanohwanoh Way - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Wanohwanoh Way - hint"
+                    },
+                    {
+                        "name": "World 19 - 19. Ohohoh Tower - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Ohohoh Tower - hint"
+                    },
+                    {
+                        "name": "World 19 - 19. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 19 - hint/19. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "20. Gym - Trapezius Set - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Gym - hint/Trapezius Set - hint"
+                    },
+                    {
+                        "name": "20. Gym - Squat Goals - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Gym - hint/Squat Goals - hint"
+                    },
+                    {
+                        "name": "20. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "20. Gym - Gluting Gallery - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Gym - hint/Gluting Gallery - hint"
+                    },
+                    {
+                        "name": "20. Gym - Crate Crasher - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Gym - hint/Crate Crasher - hint"
+                    },
+                    {
+                        "name": "World 20 - 20. Temple of Balance - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Temple of Balance - hint"
+                    },
+                    {
+                        "name": "World 20 - 20. Howling Hollow - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Howling Hollow - hint"
+                    },
+                    {
+                        "name": "World 20 - 20. Hang-Tough Temple - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Hang-Tough Temple - hint"
+                    },
+                    {
+                        "name": "World 20 - 20. Glowskin Ridge - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Glowskin Ridge - hint"
+                    },
+                    {
+                        "name": "World 20 - 20. Bolthole Tunnel - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Bolthole Tunnel - hint"
+                    },
+                    {
+                        "name": "World 20 - 20. Marathon Field - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Marathon Field - hint"
+                    },
+                    {
+                        "name": "World 20 - 20. Swift Spire - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Swift Spire - hint"
+                    },
+                    {
+                        "name": "World 20 - 20. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 20 - hint/20. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "21. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "21. Gym - Squattery Wheel - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Gym - hint/Squattery Wheel - hint"
+                    },
+                    {
+                        "name": "21. Gym - Robo-Wrecker - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Gym - hint/Robo-Wrecker - hint"
+                    },
+                    {
+                        "name": "21. Gym - Core Set - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Gym - hint/Core Set - hint"
+                    },
+                    {
+                        "name": "21. Gym - Battle Gym 2 - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Gym - hint/Battle Gym 2 - hint"
+                    },
+                    {
+                        "name": "World 21 - 21. Jog-On Bog - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Jog-On Bog - hint"
+                    },
+                    {
+                        "name": "World 21 - 21. Ribcage Peak - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Ribcage Peak - hint"
+                    },
+                    {
+                        "name": "World 21 - 21. Whirling Halls - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Whirling Halls - hint"
+                    },
+                    {
+                        "name": "World 21 - 21. Soaring Valley - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Soaring Valley - hint"
+                    },
+                    {
+                        "name": "World 21 - 21. Entrance to Hades - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Entrance to Hades - hint"
+                    },
+                    {
+                        "name": "World 21 - 21. Rear Byway - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Rear Byway - hint"
+                    },
+                    {
+                        "name": "World 21 - 21. Inner Byway - hint",
+                        "ref": "Worlds - hint/World 21 - hint/21. Inner Byway - hint"
+                    },
+                    {
+                        "name": "22. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "22. Gym - Aerobic Set - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Gym - hint/Aerobic Set - hint"
+                    },
+                    {
+                        "name": "22. Gym - Dreadmill - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Gym - hint/Dreadmill - hint"
+                    },
+                    {
+                        "name": "22. Gym - Core Crushing - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Gym - hint/Core Crushing - hint"
+                    },
+                    {
+                        "name": "22. Gym - Bootstrap Tower - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Gym - hint/Bootstrap Tower - hint"
+                    },
+                    {
+                        "name": "22. Gym - Bank Balance - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Gym - hint/Bank Balance - hint"
+                    },
+                    {
+                        "name": "World 22 - 22. Exercise Paradise - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Exercise Paradise - hint"
+                    },
+                    {
+                        "name": "World 22 - 22. Uplift Temple - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Uplift Temple - hint"
+                    },
+                    {
+                        "name": "World 22 - 22. Gunsho Temple - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Gunsho Temple - hint"
+                    },
+                    {
+                        "name": "World 22 - 22. Yogana - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Yogana - hint"
+                    },
+                    {
+                        "name": "World 22 - 22. Perspiration Paradise - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Perspiration Paradise - hint"
+                    },
+                    {
+                        "name": "World 22 - 22. Six-Peak Temple - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Six-Peak Temple - hint"
+                    },
+                    {
+                        "name": "World 22 - 22. Slab Paradise - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Slab Paradise - hint"
+                    },
+                    {
+                        "name": "World 22 - 22. Calm Cloister - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Calm Cloister - hint"
+                    },
+                    {
+                        "name": "World 22 - 22. Judgment Pass - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Judgment Pass - hint"
+                    },
+                    {
+                        "name": "World 22 - 22. Li'l Grrr's House - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Li'l Grrr's House - hint"
+                    },
+                    {
+                        "name": "World 22 - 22. Hades Exit - hint",
+                        "ref": "Worlds - hint/World 22 - hint/22. Hades Exit - hint"
+                    },
+                    {
+                        "name": "23. Gym - Smack Back - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Gym - hint/Smack Back - hint"
+                    },
+                    {
+                        "name": "23. Gym - Aerochute - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Gym - hint/Aerochute - hint"
+                    },
+                    {
+                        "name": "23. Gym - Back Set - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Gym - hint/Back Set - hint"
+                    },
+                    {
+                        "name": "23. Gym - Battle Gym - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Gym - hint/Battle Gym - hint"
+                    },
+                    {
+                        "name": "World 23 - 23. Stadium Grounds - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Stadium Grounds - hint"
+                    },
+                    {
+                        "name": "World 23 - 23. Stadium Barricade - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Stadium Barricade - hint"
+                    },
+                    {
+                        "name": "World 23 - 23. Dragaux Stadium - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Dragaux Stadium - hint"
+                    },
+                    {
+                        "name": "World 23 - 23. Last Lookout - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Last Lookout - hint"
+                    },
+                    {
+                        "name": "World 23 - 23. Closing Coaster - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Closing Coaster - hint"
+                    },
+                    {
+                        "name": "World 23 - 23. Ultimate Hollow - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Ultimate Hollow - hint"
+                    },
+                    {
+                        "name": "World 23 - 23. Hindmost Highway - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Hindmost Highway - hint"
+                    },
+                    {
+                        "name": "World 23 - 23. Irrevocable River - hint",
+                        "ref": "Worlds - hint/World 23 - hint/23. Irrevocable River - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1060",
+                        "y": "2211",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Moves",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Red - Overhead Press",
+                        "ref": "Moves/Red/Overhead Press"
+                    },
+                    {
+                        "name": "Red - Front Press",
+                        "ref": "Moves/Red/Front Press"
+                    },
+                    {
+                        "name": "Red - Bow Pull",
+                        "ref": "Moves/Red/Bow Pull"
+                    },
+                    {
+                        "name": "Red - Overhead Arm Twist",
+                        "ref": "Moves/Red/Overhead Arm Twist"
+                    },
+                    {
+                        "name": "Red - Overhead Arm Spin",
+                        "ref": "Moves/Red/Overhead Arm Spin"
+                    },
+                    {
+                        "name": "Red - Shoulder Press",
+                        "ref": "Moves/Red/Shoulder Press"
+                    },
+                    {
+                        "name": "Red - Tricep Kickback",
+                        "ref": "Moves/Red/Tricep Kickback"
+                    },
+                    {
+                        "name": "Red - Back Press",
+                        "ref": "Moves/Red/Back Press"
+                    },
+                    {
+                        "name": "Yellow - Knee-to-Chest",
+                        "ref": "Moves/Yellow/Knee-to-Chest"
+                    },
+                    {
+                        "name": "Yellow - Standing Twist",
+                        "ref": "Moves/Yellow/Standing Twist"
+                    },
+                    {
+                        "name": "Yellow - Plank",
+                        "ref": "Moves/Yellow/Plank"
+                    },
+                    {
+                        "name": "Yellow - Overhead Bend",
+                        "ref": "Moves/Yellow/Overhead Bend"
+                    },
+                    {
+                        "name": "Yellow - Open & Close Leg Raise",
+                        "ref": "Moves/Yellow/Open & Close Leg Raise"
+                    },
+                    {
+                        "name": "Yellow - Overhead Hip Shake",
+                        "ref": "Moves/Yellow/Overhead Hip Shake"
+                    },
+                    {
+                        "name": "Yellow - Seated Forward Press",
+                        "ref": "Moves/Yellow/Seated Forward Press"
+                    },
+                    {
+                        "name": "Yellow - Overhead Lunge Twist",
+                        "ref": "Moves/Yellow/Overhead Lunge Twist"
+                    },
+                    {
+                        "name": "Yellow - Leg Raise",
+                        "ref": "Moves/Yellow/Leg Raise"
+                    },
+                    {
+                        "name": "Yellow - Flutter Kick",
+                        "ref": "Moves/Yellow/Flutter Kick"
+                    },
+                    {
+                        "name": "Yellow - Pendulum Bend",
+                        "ref": "Moves/Yellow/Pendulum Bend"
+                    },
+                    {
+                        "name": "Yellow - Leg Scissors",
+                        "ref": "Moves/Yellow/Leg Scissors"
+                    },
+                    {
+                        "name": "Yellow - Russian Twist",
+                        "ref": "Moves/Yellow/Russian Twist"
+                    },
+                    {
+                        "name": "Yellow - Overhead Side Bend",
+                        "ref": "Moves/Yellow/Overhead Side Bend"
+                    },
+                    {
+                        "name": "Yellow - Seated Ring Raise",
+                        "ref": "Moves/Yellow/Seated Ring Raise"
+                    },
+                    {
+                        "name": "Blue - Squat",
+                        "ref": "Moves/Blue/Squat"
+                    },
+                    {
+                        "name": "Blue - Knee Lift",
+                        "ref": "Moves/Blue/Knee Lift"
+                    },
+                    {
+                        "name": "Blue - Thigh Press",
+                        "ref": "Moves/Blue/Thigh Press"
+                    },
+                    {
+                        "name": "Blue - Wide Squat",
+                        "ref": "Moves/Blue/Wide Squat"
+                    },
+                    {
+                        "name": "Blue - Hip Lift",
+                        "ref": "Moves/Blue/Hip Lift"
+                    },
+                    {
+                        "name": "Blue - Ring Raise Combo",
+                        "ref": "Moves/Blue/Ring Raise Combo"
+                    },
+                    {
+                        "name": "Blue - Overhead Squat",
+                        "ref": "Moves/Blue/Overhead Squat"
+                    },
+                    {
+                        "name": "Blue - Mountain Climber",
+                        "ref": "Moves/Blue/Mountain Climber"
+                    },
+                    {
+                        "name": "Blue - Side Step",
+                        "ref": "Moves/Blue/Side Step"
+                    },
+                    {
+                        "name": "Blue - Knee-Lift Combo",
+                        "ref": "Moves/Blue/Knee-Lift Combo"
+                    },
+                    {
+                        "name": "Green - Chair Pose",
+                        "ref": "Moves/Green/Chair Pose"
+                    },
+                    {
+                        "name": "Green - Warrior I Pose",
+                        "ref": "Moves/Green/Warrior I Pose"
+                    },
+                    {
+                        "name": "Green - Fan Pose",
+                        "ref": "Moves/Green/Fan Pose"
+                    },
+                    {
+                        "name": "Green - Warrior II Pose",
+                        "ref": "Moves/Green/Warrior II Pose"
+                    },
+                    {
+                        "name": "Green - Revolved Crescent Lunge Pose",
+                        "ref": "Moves/Green/Revolved Crescent Lunge Pose"
+                    },
+                    {
+                        "name": "Green - Warrior III Pose",
+                        "ref": "Moves/Green/Warrior III Pose"
+                    },
+                    {
+                        "name": "Green - Hinge Pose",
+                        "ref": "Moves/Green/Hinge Pose"
+                    },
+                    {
+                        "name": "Green - Tree Pose",
+                        "ref": "Moves/Green/Tree Pose"
+                    },
+                    {
+                        "name": "Green - Standing Forward Fold",
+                        "ref": "Moves/Green/Standing Forward Fold"
+                    },
+                    {
+                        "name": "Green - Boat Pose",
+                        "ref": "Moves/Green/Boat Pose"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1155",
+                        "y": "695",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rhythm Games",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rhythm Games - Fit Battle",
+                        "ref": "Rhythm Games/Fit Battle"
+                    },
+                    {
+                        "name": "Rhythm Games - Boss Battle",
+                        "ref": "Rhythm Games/Boss Battle"
+                    },
+                    {
+                        "name": "Rhythm Games - Four Masters Battle",
+                        "ref": "Rhythm Games/Four Masters Battle"
+                    },
+                    {
+                        "name": "Rhythm Games - Battle Gym",
+                        "ref": "Rhythm Games/Battle Gym"
+                    },
+                    {
+                        "name": "Rhythm Games - Dragaux Battle",
+                        "ref": "Rhythm Games/Dragaux Battle"
+                    },
+                    {
+                        "name": "Rhythm Games - Grassland",
+                        "ref": "Rhythm Games/Grassland"
+                    },
+                    {
+                        "name": "Rhythm Games - Riverside",
+                        "ref": "Rhythm Games/Riverside"
+                    },
+                    {
+                        "name": "Rhythm Games - Snow Mountain",
+                        "ref": "Rhythm Games/Snow Mountain"
+                    },
+                    {
+                        "name": "Rhythm Games - Night Road",
+                        "ref": "Rhythm Games/Night Road"
+                    },
+                    {
+                        "name": "Rhythm Games - Athletic 1",
+                        "ref": "Rhythm Games/Athletic 1"
+                    },
+                    {
+                        "name": "Rhythm Games - Athletic 2",
+                        "ref": "Rhythm Games/Athletic 2"
+                    },
+                    {
+                        "name": "Rhythm Games - Dragaux Stadium",
+                        "ref": "Rhythm Games/Dragaux Stadium"
+                    },
+                    {
+                        "name": "Rhythm Games - Jump Up, Super Star!",
+                        "ref": "Rhythm Games/Jump Up, Super Star!"
+                    },
+                    {
+                        "name": "Rhythm Games - Ground Theme Band Performance - Super Mario Bros.",
+                        "ref": "Rhythm Games/Ground Theme Band Performance - Super Mario Bros."
+                    },
+                    {
+                        "name": "Rhythm Games - Breath of the Wild Medley",
+                        "ref": "Rhythm Games/Breath of the Wild Medley"
+                    },
+                    {
+                        "name": "Rhythm Games - Splatoon 2 Medley",
+                        "ref": "Rhythm Games/Splatoon 2 Medley"
+                    },
+                    {
+                        "name": "Rhythm Games - Wii Fit Medley",
+                        "ref": "Rhythm Games/Wii Fit Medley"
+                    },
+                    {
+                        "name": "Rhythm Games - Gainful Boss Fight",
+                        "ref": "Rhythm Games/Gainful Boss Fight"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2449",
+                        "y": "1333",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Smoothies",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Smoothies - Ultimate Red Smoothie",
+                        "ref": "Smoothies/Ultimate Red Smoothie"
+                    },
+                    {
+                        "name": "Smoothies - Ultimate Yellow Smoothie",
+                        "ref": "Smoothies/Ultimate Yellow Smoothie"
+                    },
+                    {
+                        "name": "Smoothies - Ultimate Blue Smoothie",
+                        "ref": "Smoothies/Ultimate Blue Smoothie"
+                    },
+                    {
+                        "name": "Smoothies - Ultimate Green Smoothie",
+                        "ref": "Smoothies/Ultimate Green Smoothie"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "503",
+                        "y": "573",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Worlds",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "World 1 - 01. Beginnia",
+                        "ref": "Worlds/World 1/01. Beginnia"
+                    },
+                    {
+                        "name": "World 1 - 01. Transient Temple",
+                        "ref": "Worlds/World 1/01. Transient Temple"
+                    },
+                    {
+                        "name": "World 1 - 01. Dragaux Stadium",
+                        "ref": "Worlds/World 1/01. Dragaux Stadium"
+                    },
+                    {
+                        "name": "02. Gym - Robo Wrecker",
+                        "ref": "Worlds/World 2/02. Gym/Robo Wrecker"
+                    },
+                    {
+                        "name": "World 2 - 02. Nightcloak Pass",
+                        "ref": "Worlds/World 2/02. Nightcloak Pass"
+                    },
+                    {
+                        "name": "World 2 - 02. Dashalong Tower",
+                        "ref": "Worlds/World 2/02. Dashalong Tower"
+                    },
+                    {
+                        "name": "World 2 - 02. Disturbance Meadow",
+                        "ref": "Worlds/World 2/02. Disturbance Meadow"
+                    },
+                    {
+                        "name": "World 2 - 02. Dragaux Stadium",
+                        "ref": "Worlds/World 2/02. Dragaux Stadium"
+                    },
+                    {
+                        "name": "03. Gym - Gluting Gallery",
+                        "ref": "Worlds/World 3/03. Gym/Gluting Gallery"
+                    },
+                    {
+                        "name": "03. Gym - Squat Goals",
+                        "ref": "Worlds/World 3/03. Gym/Squat Goals"
+                    },
+                    {
+                        "name": "World 3 - 03. Treasure Pass",
+                        "ref": "Worlds/World 3/03. Treasure Pass"
+                    },
+                    {
+                        "name": "World 3 - 03. General Factory",
+                        "ref": "Worlds/World 3/03. General Factory"
+                    },
+                    {
+                        "name": "World 3 - 03. Bridge of Insight",
+                        "ref": "Worlds/World 3/03. Bridge of Insight"
+                    },
+                    {
+                        "name": "World 3 - 03. Hopskip Corridor",
+                        "ref": "Worlds/World 3/03. Hopskip Corridor"
+                    },
+                    {
+                        "name": "World 3 - 03. Dragaux Stadium",
+                        "ref": "Worlds/World 3/03. Dragaux Stadium"
+                    },
+                    {
+                        "name": "04. Gym - Crate Crasher",
+                        "ref": "Worlds/World 4/04. Gym/Crate Crasher"
+                    },
+                    {
+                        "name": "04. Gym - Core Crushing",
+                        "ref": "Worlds/World 4/04. Gym/Core Crushing"
+                    },
+                    {
+                        "name": "World 4 - 04. Sportan Waters",
+                        "ref": "Worlds/World 4/04. Sportan Waters"
+                    },
+                    {
+                        "name": "World 4 - 04. Sportan Swamp",
+                        "ref": "Worlds/World 4/04. Sportan Swamp"
+                    },
+                    {
+                        "name": "World 4 - 04. Sporta Bridge",
+                        "ref": "Worlds/World 4/04. Sporta Bridge"
+                    },
+                    {
+                        "name": "World 4 - 04. Dojo Sporta",
+                        "ref": "Worlds/World 4/04. Dojo Sporta"
+                    },
+                    {
+                        "name": "World 4 - 04. Sportan Highway",
+                        "ref": "Worlds/World 4/04. Sportan Highway"
+                    },
+                    {
+                        "name": "World 4 - 04. Sporta Treasury",
+                        "ref": "Worlds/World 4/04. Sporta Treasury"
+                    },
+                    {
+                        "name": "World 4 - 04. Dragaux Stadium",
+                        "ref": "Worlds/World 4/04. Dragaux Stadium"
+                    },
+                    {
+                        "name": "World 4 - 04. Out-Of-The-Way Way",
+                        "ref": "Worlds/World 4/04. Out-Of-The-Way Way"
+                    },
+                    {
+                        "name": "05. Gym - Legs Set",
+                        "ref": "Worlds/World 5/05. Gym/Legs Set"
+                    },
+                    {
+                        "name": "05. Gym - Aerochute",
+                        "ref": "Worlds/World 5/05. Gym/Aerochute"
+                    },
+                    {
+                        "name": "05. Gym - Bank Balance",
+                        "ref": "Worlds/World 5/05. Gym/Bank Balance"
+                    },
+                    {
+                        "name": "05. Gym - Bootstrap Tower",
+                        "ref": "Worlds/World 5/05. Gym/Bootstrap Tower"
+                    },
+                    {
+                        "name": "05. Gym - Thigh Rider",
+                        "ref": "Worlds/World 5/05. Gym/Thigh Rider"
+                    },
+                    {
+                        "name": "World 5 - 05. Exertion River",
+                        "ref": "Worlds/World 5/05. Exertion River"
+                    },
+                    {
+                        "name": "World 5 - 05. Twilight Highway",
+                        "ref": "Worlds/World 5/05. Twilight Highway"
+                    },
+                    {
+                        "name": "World 5 - 05. Loot Pass",
+                        "ref": "Worlds/World 5/05. Loot Pass"
+                    },
+                    {
+                        "name": "World 5 - 05. Armie Temple",
+                        "ref": "Worlds/World 5/05. Armie Temple"
+                    },
+                    {
+                        "name": "World 5 - 05. Arms-Race Gym",
+                        "ref": "Worlds/World 5/05. Arms-Race Gym"
+                    },
+                    {
+                        "name": "World 5 - 05. Stopfoot Waters",
+                        "ref": "Worlds/World 5/05. Stopfoot Waters"
+                    },
+                    {
+                        "name": "World 5 - 05. Birdseye Mountain Trail",
+                        "ref": "Worlds/World 5/05. Birdseye Mountain Trail"
+                    },
+                    {
+                        "name": "World 5 - 05. Exertion Corridor",
+                        "ref": "Worlds/World 5/05. Exertion Corridor"
+                    },
+                    {
+                        "name": "World 5 - 05. Leap-of-Faith Falls",
+                        "ref": "Worlds/World 5/05. Leap-of-Faith Falls"
+                    },
+                    {
+                        "name": "World 5 - 05. Temple of Balance",
+                        "ref": "Worlds/World 5/05. Temple of Balance"
+                    },
+                    {
+                        "name": "World 5 - 05. Dragaux Stadium",
+                        "ref": "Worlds/World 5/05. Dragaux Stadium"
+                    },
+                    {
+                        "name": "06. Gym - Battle Gym",
+                        "ref": "Worlds/World 6/06. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "06. Gym - Smack Back",
+                        "ref": "Worlds/World 6/06. Gym/Smack Back"
+                    },
+                    {
+                        "name": "06. Gym - Robo-Wrecker",
+                        "ref": "Worlds/World 6/06. Gym/Robo-Wrecker"
+                    },
+                    {
+                        "name": "06. Gym - Squattery Wheel",
+                        "ref": "Worlds/World 6/06. Gym/Squattery Wheel"
+                    },
+                    {
+                        "name": "World 6 - 06. Beaut Camp",
+                        "ref": "Worlds/World 6/06. Beaut Camp"
+                    },
+                    {
+                        "name": "World 6 - 06. Six Park",
+                        "ref": "Worlds/World 6/06. Six Park"
+                    },
+                    {
+                        "name": "World 6 - 06. Arms-Race Gym",
+                        "ref": "Worlds/World 6/06. Arms-Race Gym"
+                    },
+                    {
+                        "name": "World 6 - 06. Temple of Balance",
+                        "ref": "Worlds/World 6/06. Temple of Balance"
+                    },
+                    {
+                        "name": "World 6 - 06. Dragaux Stadium",
+                        "ref": "Worlds/World 6/06. Dragaux Stadium"
+                    },
+                    {
+                        "name": "07. Gym - Glutes Set",
+                        "ref": "Worlds/World 7/07. Gym/Glutes Set"
+                    },
+                    {
+                        "name": "07. Gym - Core Crushing",
+                        "ref": "Worlds/World 7/07. Gym/Core Crushing"
+                    },
+                    {
+                        "name": "07. Gym - Gluting Gallery",
+                        "ref": "Worlds/World 7/07. Gym/Gluting Gallery"
+                    },
+                    {
+                        "name": "07. Gym - Battle Gym",
+                        "ref": "Worlds/World 7/07. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "07. Gym - Squat Camp",
+                        "ref": "Worlds/World 7/07. Gym/Squat Camp"
+                    },
+                    {
+                        "name": "World 7 - 07. Swing Gate",
+                        "ref": "Worlds/World 7/07. Swing Gate"
+                    },
+                    {
+                        "name": "World 7 - 07. Starting-Block Bridge",
+                        "ref": "Worlds/World 7/07. Starting-Block Bridge"
+                    },
+                    {
+                        "name": "World 7 - 07. Trotter's Grove",
+                        "ref": "Worlds/World 7/07. Trotter's Grove"
+                    },
+                    {
+                        "name": "World 7 - 07. Beaut Camp",
+                        "ref": "Worlds/World 7/07. Beaut Camp"
+                    },
+                    {
+                        "name": "World 7 - 07. Dragaux Stadium",
+                        "ref": "Worlds/World 7/07. Dragaux Stadium"
+                    },
+                    {
+                        "name": "08. Gym - Crate Crasher",
+                        "ref": "Worlds/World 8/08. Gym/Crate Crasher"
+                    },
+                    {
+                        "name": "08. Gym - Battle Gym",
+                        "ref": "Worlds/World 8/08. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "08. Gym - Thigh Rider",
+                        "ref": "Worlds/World 8/08. Gym/Thigh Rider"
+                    },
+                    {
+                        "name": "08. Gym - Bank Balance",
+                        "ref": "Worlds/World 8/08. Gym/Bank Balance"
+                    },
+                    {
+                        "name": "08. Gym - Battle Gym 2",
+                        "ref": "Worlds/World 8/08. Gym/Battle Gym 2"
+                    },
+                    {
+                        "name": "World 8 - 08. Gutterflow Temple",
+                        "ref": "Worlds/World 8/08. Gutterflow Temple"
+                    },
+                    {
+                        "name": "World 8 - 08. Drench Trench",
+                        "ref": "Worlds/World 8/08. Drench Trench"
+                    },
+                    {
+                        "name": "World 8 - 08. Talisman Trail",
+                        "ref": "Worlds/World 8/08. Talisman Trail"
+                    },
+                    {
+                        "name": "World 8 - 08. Springboard Shrine",
+                        "ref": "Worlds/World 8/08. Springboard Shrine"
+                    },
+                    {
+                        "name": "World 8 - 08. Dangling Overpass",
+                        "ref": "Worlds/World 8/08. Dangling Overpass"
+                    },
+                    {
+                        "name": "World 8 - 08. Secluded Shrine Approach",
+                        "ref": "Worlds/World 8/08. Secluded Shrine Approach"
+                    },
+                    {
+                        "name": "World 8 - 08. Solar Plexia Academy",
+                        "ref": "Worlds/World 8/08. Solar Plexia Academy"
+                    },
+                    {
+                        "name": "World 8 - 08. Solar Plexia's Shrine",
+                        "ref": "Worlds/World 8/08. Solar Plexia's Shrine"
+                    },
+                    {
+                        "name": "09. Gym - Dreadmill",
+                        "ref": "Worlds/World 9/09. Gym/Dreadmill"
+                    },
+                    {
+                        "name": "09. Gym - Smack Back",
+                        "ref": "Worlds/World 9/09. Gym/Smack Back"
+                    },
+                    {
+                        "name": "09. Gym - Chest Set",
+                        "ref": "Worlds/World 9/09. Gym/Chest Set"
+                    },
+                    {
+                        "name": "09. Gym - Squattery Wheel",
+                        "ref": "Worlds/World 9/09. Gym/Squattery Wheel"
+                    },
+                    {
+                        "name": "09. Gym - Bootstrap Tower",
+                        "ref": "Worlds/World 9/09. Gym/Bootstrap Tower"
+                    },
+                    {
+                        "name": "World 9 - 09. No-Brakes Mine",
+                        "ref": "Worlds/World 9/09. No-Brakes Mine"
+                    },
+                    {
+                        "name": "World 9 - 09. Flyover Wilds",
+                        "ref": "Worlds/World 9/09. Flyover Wilds"
+                    },
+                    {
+                        "name": "World 9 - 09. Arms-Race Gym",
+                        "ref": "Worlds/World 9/09. Arms-Race Gym"
+                    },
+                    {
+                        "name": "World 9 - 09. Beltline Tower",
+                        "ref": "Worlds/World 9/09. Beltline Tower"
+                    },
+                    {
+                        "name": "World 9 - 09. Pushpull Shrine",
+                        "ref": "Worlds/World 9/09. Pushpull Shrine"
+                    },
+                    {
+                        "name": "World 9 - 09. Dragaux Stadium",
+                        "ref": "Worlds/World 9/09. Dragaux Stadium"
+                    },
+                    {
+                        "name": "World 9 - 09. Otherside Street",
+                        "ref": "Worlds/World 9/09. Otherside Street"
+                    },
+                    {
+                        "name": "World 9 - 09. Otherside Waterway",
+                        "ref": "Worlds/World 9/09. Otherside Waterway"
+                    },
+                    {
+                        "name": "10. Gym - Gluting Gallery",
+                        "ref": "Worlds/World 10/10. Gym/Gluting Gallery"
+                    },
+                    {
+                        "name": "10. Gym - Robo-Wrecker",
+                        "ref": "Worlds/World 10/10. Gym/Robo-Wrecker"
+                    },
+                    {
+                        "name": "10. Gym - Squat Goals",
+                        "ref": "Worlds/World 10/10. Gym/Squat Goals"
+                    },
+                    {
+                        "name": "10. Gym - Thigh Rider",
+                        "ref": "Worlds/World 10/10. Gym/Thigh Rider"
+                    },
+                    {
+                        "name": "10. Gym - Aerochute",
+                        "ref": "Worlds/World 10/10. Gym/Aerochute"
+                    },
+                    {
+                        "name": "10. Gym - Core Crushing",
+                        "ref": "Worlds/World 10/10. Gym/Core Crushing"
+                    },
+                    {
+                        "name": "World 10 - 10. Finishing School",
+                        "ref": "Worlds/World 10/10. Finishing School"
+                    },
+                    {
+                        "name": "World 10 - 10. Dragaux Stadium",
+                        "ref": "Worlds/World 10/10. Dragaux Stadium"
+                    },
+                    {
+                        "name": "World 10 - 10. Floating Waterway",
+                        "ref": "Worlds/World 10/10. Floating Waterway"
+                    },
+                    {
+                        "name": "World 10 - 10. Fusion Waterway",
+                        "ref": "Worlds/World 10/10. Fusion Waterway"
+                    },
+                    {
+                        "name": "11. Gym - Dreadmill",
+                        "ref": "Worlds/World 11/11. Gym/Dreadmill"
+                    },
+                    {
+                        "name": "11. Gym - Waist Set",
+                        "ref": "Worlds/World 11/11. Gym/Waist Set"
+                    },
+                    {
+                        "name": "11. Gym - Battle Gym",
+                        "ref": "Worlds/World 11/11. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "11. Gym - Battle Gym 2",
+                        "ref": "Worlds/World 11/11. Gym/Battle Gym 2"
+                    },
+                    {
+                        "name": "11. Gym - Bank Balance",
+                        "ref": "Worlds/World 11/11. Gym/Bank Balance"
+                    },
+                    {
+                        "name": "11. Gym - Crate Crasher",
+                        "ref": "Worlds/World 11/11. Gym/Crate Crasher"
+                    },
+                    {
+                        "name": "World 11 - 11. Rumbling Road",
+                        "ref": "Worlds/World 11/11. Rumbling Road"
+                    },
+                    {
+                        "name": "World 11 - 11. Sunset Road",
+                        "ref": "Worlds/World 11/11. Sunset Road"
+                    },
+                    {
+                        "name": "World 11 - 11. Athlete's Road",
+                        "ref": "Worlds/World 11/11. Athlete's Road"
+                    },
+                    {
+                        "name": "World 11 - 11. Cowardly Strongman's House",
+                        "ref": "Worlds/World 11/11. Cowardly Strongman's House"
+                    },
+                    {
+                        "name": "World 11 - 11. Soak Road",
+                        "ref": "Worlds/World 11/11. Soak Road"
+                    },
+                    {
+                        "name": "World 11 - 11. Hasty Highway",
+                        "ref": "Worlds/World 11/11. Hasty Highway"
+                    },
+                    {
+                        "name": "World 11 - 11. River Road",
+                        "ref": "Worlds/World 11/11. River Road"
+                    },
+                    {
+                        "name": "World 11 - 11. Twilight Road",
+                        "ref": "Worlds/World 11/11. Twilight Road"
+                    },
+                    {
+                        "name": "World 11 - 11. Valley of Wishes",
+                        "ref": "Worlds/World 11/11. Valley of Wishes"
+                    },
+                    {
+                        "name": "12. Gym - Battle Gym",
+                        "ref": "Worlds/World 12/12. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "12. Gym - Flexibility Set",
+                        "ref": "Worlds/World 12/12. Gym/Flexibility Set"
+                    },
+                    {
+                        "name": "World 12 - 12. Clever-Trick Temple",
+                        "ref": "Worlds/World 12/12. Clever-Trick Temple"
+                    },
+                    {
+                        "name": "World 12 - 12. Mt. Fearmenot",
+                        "ref": "Worlds/World 12/12. Mt. Fearmenot"
+                    },
+                    {
+                        "name": "World 12 - 12. Monster Den",
+                        "ref": "Worlds/World 12/12. Monster Den"
+                    },
+                    {
+                        "name": "World 12 - 12. Upsurge Studio",
+                        "ref": "Worlds/World 12/12. Upsurge Studio"
+                    },
+                    {
+                        "name": "World 12 - 12. Soleus Gold Mine",
+                        "ref": "Worlds/World 12/12. Soleus Gold Mine"
+                    },
+                    {
+                        "name": "World 12 - 12. Tornado Temple",
+                        "ref": "Worlds/World 12/12. Tornado Temple"
+                    },
+                    {
+                        "name": "World 12 - 12. Fluttering Heights",
+                        "ref": "Worlds/World 12/12. Fluttering Heights"
+                    },
+                    {
+                        "name": "World 12 - 12. Temple of Balance",
+                        "ref": "Worlds/World 12/12. Temple of Balance"
+                    },
+                    {
+                        "name": "13. Gym - Squattery Wheel",
+                        "ref": "Worlds/World 13/13. Gym/Squattery Wheel"
+                    },
+                    {
+                        "name": "13. Gym - Smack Back",
+                        "ref": "Worlds/World 13/13. Gym/Smack Back"
+                    },
+                    {
+                        "name": "13. Gym - Battle Gym",
+                        "ref": "Worlds/World 13/13. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "13. Gym - Posture Set",
+                        "ref": "Worlds/World 13/13. Gym/Posture Set"
+                    },
+                    {
+                        "name": "World 13 - 13. Dragaux Stadium",
+                        "ref": "Worlds/World 13/13. Dragaux Stadium"
+                    },
+                    {
+                        "name": "14. Gym - Bootstrap Tower",
+                        "ref": "Worlds/World 14/14. Gym/Bootstrap Tower"
+                    },
+                    {
+                        "name": "14. Gym - Abs Set",
+                        "ref": "Worlds/World 14/14. Gym/Abs Set"
+                    },
+                    {
+                        "name": "14. Gym - Aerochute",
+                        "ref": "Worlds/World 14/14. Gym/Aerochute"
+                    },
+                    {
+                        "name": "14. Gym - Thigh Rider",
+                        "ref": "Worlds/World 14/14. Gym/Thigh Rider"
+                    },
+                    {
+                        "name": "14. Gym - Battle Gym",
+                        "ref": "Worlds/World 14/14. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "World 14 - 14. Missed Highway",
+                        "ref": "Worlds/World 14/14. Missed Highway"
+                    },
+                    {
+                        "name": "World 14 - 14. Misty Corridor",
+                        "ref": "Worlds/World 14/14. Misty Corridor"
+                    },
+                    {
+                        "name": "World 14 - 14. Steadfast Road",
+                        "ref": "Worlds/World 14/14. Steadfast Road"
+                    },
+                    {
+                        "name": "World 14 - 14. Invisible Temple",
+                        "ref": "Worlds/World 14/14. Invisible Temple"
+                    },
+                    {
+                        "name": "World 14 - 14. High-Roller Complex",
+                        "ref": "Worlds/World 14/14. High-Roller Complex"
+                    },
+                    {
+                        "name": "World 14 - 14. Ghostship Tower",
+                        "ref": "Worlds/World 14/14. Ghostship Tower"
+                    },
+                    {
+                        "name": "World 14 - 14. Turmoil Territory",
+                        "ref": "Worlds/World 14/14. Turmoil Territory"
+                    },
+                    {
+                        "name": "World 14 - 14. Gazelle Channel",
+                        "ref": "Worlds/World 14/14. Gazelle Channel"
+                    },
+                    {
+                        "name": "World 14 - 14. Disappearance Path",
+                        "ref": "Worlds/World 14/14. Disappearance Path"
+                    },
+                    {
+                        "name": "World 14 - 14. Six Park",
+                        "ref": "Worlds/World 14/14. Six Park"
+                    },
+                    {
+                        "name": "15. Gym - Battle Gym",
+                        "ref": "Worlds/World 15/15. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "World 15 - 15. Upper Road",
+                        "ref": "Worlds/World 15/15. Upper Road"
+                    },
+                    {
+                        "name": "World 15 - 15. Lower Road",
+                        "ref": "Worlds/World 15/15. Lower Road"
+                    },
+                    {
+                        "name": "World 15 - 15. North Road",
+                        "ref": "Worlds/World 15/15. North Road"
+                    },
+                    {
+                        "name": "World 15 - 15. South Road",
+                        "ref": "Worlds/World 15/15. South Road"
+                    },
+                    {
+                        "name": "World 15 - 15. Aerohead Road",
+                        "ref": "Worlds/World 15/15. Aerohead Road"
+                    },
+                    {
+                        "name": "World 15 - 15. Sedentary Swamp",
+                        "ref": "Worlds/World 15/15. Sedentary Swamp"
+                    },
+                    {
+                        "name": "World 15 - 15. Condensation Corridor",
+                        "ref": "Worlds/World 15/15. Condensation Corridor"
+                    },
+                    {
+                        "name": "World 15 - 15. Hot Spot",
+                        "ref": "Worlds/World 15/15. Hot Spot"
+                    },
+                    {
+                        "name": "World 15 - 15. Squat Square",
+                        "ref": "Worlds/World 15/15. Squat Square"
+                    },
+                    {
+                        "name": "World 15 - 15. Benchpress Battleground",
+                        "ref": "Worlds/World 15/15. Benchpress Battleground"
+                    },
+                    {
+                        "name": "World 15 - 15. Redflag Ring",
+                        "ref": "Worlds/World 15/15. Redflag Ring"
+                    },
+                    {
+                        "name": "World 15 - 15. Stumper Tower",
+                        "ref": "Worlds/World 15/15. Stumper Tower"
+                    },
+                    {
+                        "name": "16. Gym - Bank Balance",
+                        "ref": "Worlds/World 16/16. Gym/Bank Balance"
+                    },
+                    {
+                        "name": "16. Gym - Battle Gym",
+                        "ref": "Worlds/World 16/16. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "16. Gym - Squat Goals",
+                        "ref": "Worlds/World 16/16. Gym/Squat Goals"
+                    },
+                    {
+                        "name": "16. Gym - Gluting Gallery",
+                        "ref": "Worlds/World 16/16. Gym/Gluting Gallery"
+                    },
+                    {
+                        "name": "16. Gym - Crate Crasher",
+                        "ref": "Worlds/World 16/16. Gym/Crate Crasher"
+                    },
+                    {
+                        "name": "16. Gym - Dreadmill",
+                        "ref": "Worlds/World 16/16. Gym/Dreadmill"
+                    },
+                    {
+                        "name": "16. Gym - Lower Body Set",
+                        "ref": "Worlds/World 16/16. Gym/Lower Body Set"
+                    },
+                    {
+                        "name": "World 16 - 16. Wingflap Falls",
+                        "ref": "Worlds/World 16/16. Wingflap Falls"
+                    },
+                    {
+                        "name": "World 16 - 16. Flyover Pass",
+                        "ref": "Worlds/World 16/16. Flyover Pass"
+                    },
+                    {
+                        "name": "World 16 - 16. Scrambled Wasteland",
+                        "ref": "Worlds/World 16/16. Scrambled Wasteland"
+                    },
+                    {
+                        "name": "World 16 - 16. Beaut Camp",
+                        "ref": "Worlds/World 16/16. Beaut Camp"
+                    },
+                    {
+                        "name": "World 16 - 16. Flutterpeak Pass",
+                        "ref": "Worlds/World 16/16. Flutterpeak Pass"
+                    },
+                    {
+                        "name": "World 16 - 16. Piston-Pump Rail",
+                        "ref": "Worlds/World 16/16. Piston-Pump Rail"
+                    },
+                    {
+                        "name": "World 16 - 16. Pushover Corridor",
+                        "ref": "Worlds/World 16/16. Pushover Corridor"
+                    },
+                    {
+                        "name": "World 16 - 16. Perseverance Valley",
+                        "ref": "Worlds/World 16/16. Perseverance Valley"
+                    },
+                    {
+                        "name": "World 16 - 16. Dragaux Stadium",
+                        "ref": "Worlds/World 16/16. Dragaux Stadium"
+                    },
+                    {
+                        "name": "17. Gym - Squattery Wheel",
+                        "ref": "Worlds/World 17/17. Gym/Squattery Wheel"
+                    },
+                    {
+                        "name": "17. Gym - Stamina Set",
+                        "ref": "Worlds/World 17/17. Gym/Stamina Set"
+                    },
+                    {
+                        "name": "17. Gym - Robo-Wrecker",
+                        "ref": "Worlds/World 17/17. Gym/Robo-Wrecker"
+                    },
+                    {
+                        "name": "17. Gym - Battle Gym",
+                        "ref": "Worlds/World 17/17. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "17. Gym - Bootstrap Tower",
+                        "ref": "Worlds/World 17/17. Gym/Bootstrap Tower"
+                    },
+                    {
+                        "name": "World 17 - 17. Hamstring Marsh",
+                        "ref": "Worlds/World 17/17. Hamstring Marsh"
+                    },
+                    {
+                        "name": "World 17 - 17. Sweat Street",
+                        "ref": "Worlds/World 17/17. Sweat Street"
+                    },
+                    {
+                        "name": "World 17 - 17. Hangon Bridge",
+                        "ref": "Worlds/World 17/17. Hangon Bridge"
+                    },
+                    {
+                        "name": "World 17 - 17. Dragaux Stadium",
+                        "ref": "Worlds/World 17/17. Dragaux Stadium"
+                    },
+                    {
+                        "name": "World 17 - 17. Backways Path",
+                        "ref": "Worlds/World 17/17. Backways Path"
+                    },
+                    {
+                        "name": "World 17 - 17. Inside Strait",
+                        "ref": "Worlds/World 17/17. Inside Strait"
+                    },
+                    {
+                        "name": "18. Gym - Aerochute",
+                        "ref": "Worlds/World 18/18. Gym/Aerochute"
+                    },
+                    {
+                        "name": "18. Gym - Core Crushing",
+                        "ref": "Worlds/World 18/18. Gym/Core Crushing"
+                    },
+                    {
+                        "name": "18. Gym - Shoulders Set",
+                        "ref": "Worlds/World 18/18. Gym/Shoulders Set"
+                    },
+                    {
+                        "name": "World 18 - 18. Shivering Valley",
+                        "ref": "Worlds/World 18/18. Shivering Valley"
+                    },
+                    {
+                        "name": "World 18 - 18. Wintry Watchtower",
+                        "ref": "Worlds/World 18/18. Wintry Watchtower"
+                    },
+                    {
+                        "name": "World 18 - 18. Snowflurry Valley",
+                        "ref": "Worlds/World 18/18. Snowflurry Valley"
+                    },
+                    {
+                        "name": "World 18 - 18. Freezing Freeway",
+                        "ref": "Worlds/World 18/18. Freezing Freeway"
+                    },
+                    {
+                        "name": "World 18 - 18. Rail to the Chief",
+                        "ref": "Worlds/World 18/18. Rail to the Chief"
+                    },
+                    {
+                        "name": "World 18 - 18. Chief's Foyer",
+                        "ref": "Worlds/World 18/18. Chief's Foyer"
+                    },
+                    {
+                        "name": "World 18 - 18. Chief's House",
+                        "ref": "Worlds/World 18/18. Chief's House"
+                    },
+                    {
+                        "name": "19. Gym - Battle Gym",
+                        "ref": "Worlds/World 19/19. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "19. Gym - Upper Arms Set",
+                        "ref": "Worlds/World 19/19. Gym/Upper Arms Set"
+                    },
+                    {
+                        "name": "19. Gym - Battle Gym 2",
+                        "ref": "Worlds/World 19/19. Gym/Battle Gym 2"
+                    },
+                    {
+                        "name": "19. Gym - Smack Back",
+                        "ref": "Worlds/World 19/19. Gym/Smack Back"
+                    },
+                    {
+                        "name": "19. Gym - Thigh Rider",
+                        "ref": "Worlds/World 19/19. Gym/Thigh Rider"
+                    },
+                    {
+                        "name": "19. Gym - Dreadmill",
+                        "ref": "Worlds/World 19/19. Gym/Dreadmill"
+                    },
+                    {
+                        "name": "World 19 - 19. Ohohwan River",
+                        "ref": "Worlds/World 19/19. Ohohwan River"
+                    },
+                    {
+                        "name": "World 19 - 19. Wanoh Hills",
+                        "ref": "Worlds/World 19/19. Wanoh Hills"
+                    },
+                    {
+                        "name": "World 19 - 19. Ohwanoh Factory",
+                        "ref": "Worlds/World 19/19. Ohwanoh Factory"
+                    },
+                    {
+                        "name": "World 19 - 19. Heave-Ho Checkpoint",
+                        "ref": "Worlds/World 19/19. Heave-Ho Checkpoint"
+                    },
+                    {
+                        "name": "World 19 - 19. Ohoh Valley",
+                        "ref": "Worlds/World 19/19. Ohoh Valley"
+                    },
+                    {
+                        "name": "World 19 - 19. Ohwanwan Route",
+                        "ref": "Worlds/World 19/19. Ohwanwan Route"
+                    },
+                    {
+                        "name": "World 19 - 19. Wanohwanoh Way",
+                        "ref": "Worlds/World 19/19. Wanohwanoh Way"
+                    },
+                    {
+                        "name": "World 19 - 19. Ohohoh Tower",
+                        "ref": "Worlds/World 19/19. Ohohoh Tower"
+                    },
+                    {
+                        "name": "World 19 - 19. Dragaux Stadium",
+                        "ref": "Worlds/World 19/19. Dragaux Stadium"
+                    },
+                    {
+                        "name": "20. Gym - Trapezius Set",
+                        "ref": "Worlds/World 20/20. Gym/Trapezius Set"
+                    },
+                    {
+                        "name": "20. Gym - Squat Goals",
+                        "ref": "Worlds/World 20/20. Gym/Squat Goals"
+                    },
+                    {
+                        "name": "20. Gym - Battle Gym",
+                        "ref": "Worlds/World 20/20. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "20. Gym - Gluting Gallery",
+                        "ref": "Worlds/World 20/20. Gym/Gluting Gallery"
+                    },
+                    {
+                        "name": "20. Gym - Crate Crasher",
+                        "ref": "Worlds/World 20/20. Gym/Crate Crasher"
+                    },
+                    {
+                        "name": "World 20 - 20. Temple of Balance",
+                        "ref": "Worlds/World 20/20. Temple of Balance"
+                    },
+                    {
+                        "name": "World 20 - 20. Howling Hollow",
+                        "ref": "Worlds/World 20/20. Howling Hollow"
+                    },
+                    {
+                        "name": "World 20 - 20. Hang-Tough Temple",
+                        "ref": "Worlds/World 20/20. Hang-Tough Temple"
+                    },
+                    {
+                        "name": "World 20 - 20. Glowskin Ridge",
+                        "ref": "Worlds/World 20/20. Glowskin Ridge"
+                    },
+                    {
+                        "name": "World 20 - 20. Bolthole Tunnel",
+                        "ref": "Worlds/World 20/20. Bolthole Tunnel"
+                    },
+                    {
+                        "name": "World 20 - 20. Marathon Field",
+                        "ref": "Worlds/World 20/20. Marathon Field"
+                    },
+                    {
+                        "name": "World 20 - 20. Swift Spire",
+                        "ref": "Worlds/World 20/20. Swift Spire"
+                    },
+                    {
+                        "name": "World 20 - 20. Dragaux Stadium",
+                        "ref": "Worlds/World 20/20. Dragaux Stadium"
+                    },
+                    {
+                        "name": "21. Gym - Battle Gym",
+                        "ref": "Worlds/World 21/21. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "21. Gym - Squattery Wheel",
+                        "ref": "Worlds/World 21/21. Gym/Squattery Wheel"
+                    },
+                    {
+                        "name": "21. Gym - Robo-Wrecker",
+                        "ref": "Worlds/World 21/21. Gym/Robo-Wrecker"
+                    },
+                    {
+                        "name": "21. Gym - Core Set",
+                        "ref": "Worlds/World 21/21. Gym/Core Set"
+                    },
+                    {
+                        "name": "21. Gym - Battle Gym 2",
+                        "ref": "Worlds/World 21/21. Gym/Battle Gym 2"
+                    },
+                    {
+                        "name": "World 21 - 21. Jog-On Bog",
+                        "ref": "Worlds/World 21/21. Jog-On Bog"
+                    },
+                    {
+                        "name": "World 21 - 21. Ribcage Peak",
+                        "ref": "Worlds/World 21/21. Ribcage Peak"
+                    },
+                    {
+                        "name": "World 21 - 21. Whirling Halls",
+                        "ref": "Worlds/World 21/21. Whirling Halls"
+                    },
+                    {
+                        "name": "World 21 - 21. Soaring Valley",
+                        "ref": "Worlds/World 21/21. Soaring Valley"
+                    },
+                    {
+                        "name": "World 21 - 21. Entrance to Hades",
+                        "ref": "Worlds/World 21/21. Entrance to Hades"
+                    },
+                    {
+                        "name": "World 21 - 21. Rear Byway",
+                        "ref": "Worlds/World 21/21. Rear Byway"
+                    },
+                    {
+                        "name": "World 21 - 21. Inner Byway",
+                        "ref": "Worlds/World 21/21. Inner Byway"
+                    },
+                    {
+                        "name": "22. Gym - Battle Gym",
+                        "ref": "Worlds/World 22/22. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "22. Gym - Aerobic Set",
+                        "ref": "Worlds/World 22/22. Gym/Aerobic Set"
+                    },
+                    {
+                        "name": "22. Gym - Dreadmill",
+                        "ref": "Worlds/World 22/22. Gym/Dreadmill"
+                    },
+                    {
+                        "name": "22. Gym - Core Crushing",
+                        "ref": "Worlds/World 22/22. Gym/Core Crushing"
+                    },
+                    {
+                        "name": "22. Gym - Bootstrap Tower",
+                        "ref": "Worlds/World 22/22. Gym/Bootstrap Tower"
+                    },
+                    {
+                        "name": "22. Gym - Bank Balance",
+                        "ref": "Worlds/World 22/22. Gym/Bank Balance"
+                    },
+                    {
+                        "name": "World 22 - 22. Exercise Paradise",
+                        "ref": "Worlds/World 22/22. Exercise Paradise"
+                    },
+                    {
+                        "name": "World 22 - 22. Uplift Temple",
+                        "ref": "Worlds/World 22/22. Uplift Temple"
+                    },
+                    {
+                        "name": "World 22 - 22. Gunsho Temple",
+                        "ref": "Worlds/World 22/22. Gunsho Temple"
+                    },
+                    {
+                        "name": "World 22 - 22. Yogana",
+                        "ref": "Worlds/World 22/22. Yogana"
+                    },
+                    {
+                        "name": "World 22 - 22. Perspiration Paradise",
+                        "ref": "Worlds/World 22/22. Perspiration Paradise"
+                    },
+                    {
+                        "name": "World 22 - 22. Six-Peak Temple",
+                        "ref": "Worlds/World 22/22. Six-Peak Temple"
+                    },
+                    {
+                        "name": "World 22 - 22. Slab Paradise",
+                        "ref": "Worlds/World 22/22. Slab Paradise"
+                    },
+                    {
+                        "name": "World 22 - 22. Calm Cloister",
+                        "ref": "Worlds/World 22/22. Calm Cloister"
+                    },
+                    {
+                        "name": "World 22 - 22. Judgment Pass",
+                        "ref": "Worlds/World 22/22. Judgment Pass"
+                    },
+                    {
+                        "name": "World 22 - 22. Li'l Grrr's House",
+                        "ref": "Worlds/World 22/22. Li'l Grrr's House"
+                    },
+                    {
+                        "name": "World 22 - 22. Hades Exit",
+                        "ref": "Worlds/World 22/22. Hades Exit"
+                    },
+                    {
+                        "name": "23. Gym - Smack Back",
+                        "ref": "Worlds/World 23/23. Gym/Smack Back"
+                    },
+                    {
+                        "name": "23. Gym - Aerochute",
+                        "ref": "Worlds/World 23/23. Gym/Aerochute"
+                    },
+                    {
+                        "name": "23. Gym - Back Set",
+                        "ref": "Worlds/World 23/23. Gym/Back Set"
+                    },
+                    {
+                        "name": "23. Gym - Battle Gym",
+                        "ref": "Worlds/World 23/23. Gym/Battle Gym"
+                    },
+                    {
+                        "name": "World 23 - 23. Stadium Grounds",
+                        "ref": "Worlds/World 23/23. Stadium Grounds"
+                    },
+                    {
+                        "name": "World 23 - 23. Stadium Barricade",
+                        "ref": "Worlds/World 23/23. Stadium Barricade"
+                    },
+                    {
+                        "name": "World 23 - 23. Dragaux Stadium",
+                        "ref": "Worlds/World 23/23. Dragaux Stadium"
+                    },
+                    {
+                        "name": "World 23 - 23. Last Lookout",
+                        "ref": "Worlds/World 23/23. Last Lookout"
+                    },
+                    {
+                        "name": "World 23 - 23. Closing Coaster",
+                        "ref": "Worlds/World 23/23. Closing Coaster"
+                    },
+                    {
+                        "name": "World 23 - 23. Ultimate Hollow",
+                        "ref": "Worlds/World 23/23. Ultimate Hollow"
+                    },
+                    {
+                        "name": "World 23 - 23. Hindmost Highway",
+                        "ref": "Worlds/World 23/23. Hindmost Highway"
+                    },
+                    {
+                        "name": "World 23 - 23. Irrevocable River",
+                        "ref": "Worlds/World 23/23. Irrevocable River"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1060",
+                        "y": "2211",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

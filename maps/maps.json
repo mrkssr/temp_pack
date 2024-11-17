@@ -1,0 +1,236 @@
+[
+    {
+        "name": "world_1",
+        "location_size": 120,
+        "location_border_thickness": 20,
+        "img": "images/maps/worlds/1.jpg"
+    },
+    {
+        "name": "world_2",
+        "location_size": 50,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/2.jpg"
+    },
+    {
+        "name": "world_3",
+        "location_size": 50,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/3.jpg"
+    },
+    {
+        "name": "World 4a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/4b.png"
+    },
+    {
+        "name": "World 5a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/5b.png"
+    },
+    {
+        "name": "World 6a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/6a.png"
+    },
+    {
+        "name": "World 6b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/6b.png"
+    },
+    {
+        "name": "World 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/7.png"
+    },
+    {
+        "name": "World 8a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/8a.png"
+    },
+    {
+        "name": "World 8b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/8b.png"
+    },
+    {
+        "name": "World 9a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/9a.png"
+    },
+    {
+        "name": "World 9b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/9b.png"
+    },
+    {
+        "name": "World 10a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/10a.png"
+    },
+    {
+        "name": "World 10b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/10b.png"
+    },
+    {
+        "name": "World 11a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/11a.png"
+    },
+    {
+        "name": "World 11b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/11b.png"
+    },
+    {
+        "name": "World 12",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/12.png"
+    },
+    {
+        "name": "World 13",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/13.png"
+    },
+    {
+        "name": "World 14a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/14a.png"
+    },
+    {
+        "name": "World 15a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/15a.png"
+    },
+    {
+        "name": "World 15b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/15b.png"
+    },
+    {
+        "name": "World 16a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/16a.png"
+    },
+    {
+        "name": "World 16b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/16b.png"
+    },
+    {
+        "name": "World 17a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/17a.png"
+    },
+    {
+        "name": "World 17b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/17b.png"
+    },
+    {
+        "name": "World 18",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/18.png"
+    },
+    {
+        "name": "World 19a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/19a.png"
+    },
+    {
+        "name": "World 19b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/19b.png"
+    },
+    {
+        "name": "World 20a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/20a.png"
+    },
+    {
+        "name": "World 20b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/20b.png"
+    },
+    {
+        "name": "World 21a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/21a.png"
+    },
+    {
+        "name": "World 21b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/21b.png"
+    },
+    {
+        "name": "World 22a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/22a.png"
+    },
+    {
+        "name": "World 22b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/22b.png"
+    },
+    {
+        "name": "World 23a",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/23a.png"
+    },
+    {
+        "name": "World 23b",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/worlds/23a.png"
+    },
+    {
+        "name": "Moves",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Moves.png"
+    },
+    {
+        "name": "Rhythm Games",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rhythm Games.png"
+    },
+    {
+        "name": "Smoothies",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Smoothies.png"
+    }
+]

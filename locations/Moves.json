@@ -1,0 +1,778 @@
+[
+    {
+        "name": "Moves - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "children": [
+            {
+                "name": "Red - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Overhead Press - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_red_overhead_press"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Front Press - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_red_front_press"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bow Pull - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_red_bow_pull"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Arm Twist - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_red_overhead_arm_twist"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Arm Spin - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_red_overhead_arm_spin"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shoulder Press - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_red_shoulder_press"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tricep Kickback - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_red_tricep_kickback"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Back Press - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_red_back_press"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Moves",
+                        "x": "1751",
+                        "y": "816",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Yellow - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Knee-to-Chest - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_knee-to-chest"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Standing Twist - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_standing_twist"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Plank - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_plank"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Bend - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_overhead_bend"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Open & Close Leg Raise - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_open_&_close_leg_raise"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Hip Shake - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_overhead_hip_shake"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Seated Forward Press - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_seated_forward_press"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Lunge Twist - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_overhead_lunge_twist"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Leg Raise - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_leg_raise"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Flutter Kick - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_flutter_kick"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pendulum Bend - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_pendulum_bend"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Leg Scissors - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_leg_scissors"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Russian Twist - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_russian_twist"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Side Bend - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_overhead_side_bend"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Seated Ring Raise - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_yellow_seated_ring_raise"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Moves",
+                        "x": "2121",
+                        "y": "903",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Blue - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Squat - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_blue_squat"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Knee Lift - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_blue_knee_lift"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thigh Press - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_blue_thigh_press"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wide Squat - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_blue_wide_squat"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hip Lift - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_blue_hip_lift"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ring Raise Combo - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_blue_ring_raise_combo"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Squat - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_blue_overhead_squat"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mountain Climber - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_blue_mountain_climber"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Side Step - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_blue_side_step"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Knee-Lift Combo - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_blue_knee-lift_combo"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Moves",
+                        "x": "2075",
+                        "y": "1314",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Green - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Chair Pose - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_green_chair_pose"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Warrior I Pose - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_green_warrior_i_pose"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fan Pose - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_green_fan_pose"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Warrior II Pose - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_green_warrior_ii_pose"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Revolved Crescent Lunge Pose - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_green_revolved_crescent_lunge_pose"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Warrior III Pose - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_green_warrior_iii_pose"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hinge Pose - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_green_hinge_pose"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tree Pose - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_green_tree_pose"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Standing Forward Fold - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_green_standing_forward_fold"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Boat Pose - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "moves_green_boat_pose"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Moves",
+                        "x": "897",
+                        "y": "748",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Moves",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Red",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Overhead Press",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Front Press",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bow Pull",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Arm Twist",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Arm Spin",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shoulder Press",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tricep Kickback",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Back Press",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Moves",
+                        "x": "1751",
+                        "y": "816",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yellow",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Knee-to-Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Standing Twist",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Plank",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Bend",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Open & Close Leg Raise",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Hip Shake",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Seated Forward Press",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Lunge Twist",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Leg Raise",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Flutter Kick",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pendulum Bend",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Leg Scissors",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Russian Twist",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Side Bend",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Seated Ring Raise",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Moves",
+                        "x": "2121",
+                        "y": "903",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blue",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Squat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Knee Lift",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thigh Press",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wide Squat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hip Lift",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ring Raise Combo",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Overhead Squat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mountain Climber",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Side Step",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Knee-Lift Combo",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Moves",
+                        "x": "2075",
+                        "y": "1314",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Green",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chair Pose",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Warrior I Pose",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fan Pose",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Warrior II Pose",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Revolved Crescent Lunge Pose",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Warrior III Pose",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hinge Pose",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tree Pose",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Standing Forward Fold",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Boat Pose",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Moves",
+                        "x": "897",
+                        "y": "748",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "name": "Rhythm Games - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "sections": [
+            {
+                "name": "Fit Battle - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_fit_battle"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Boss Battle - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_boss_battle"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Four Masters Battle - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_four_masters_battle"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Battle Gym - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_battle_gym"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Dragaux Battle - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_dragaux_battle"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Grassland - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_grassland"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Riverside - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_riverside"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Snow Mountain - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_snow_mountain"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Night Road - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_night_road"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Athletic 1 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_athletic_1"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Athletic 2 - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_athletic_2"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Dragaux Stadium - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_dragaux_stadium"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Jump Up, Super Star! - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_jump_up,_super_star!"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Ground Theme Band Performance - Super Mario Bros. - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_ground_theme_band_performance_-_super_mario_bros."
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Breath of the Wild Medley - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_breath_of_the_wild_medley"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Splatoon 2 Medley - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_splatoon_2_medley"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Wii Fit Medley - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_wii_fit_medley"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Gainful Boss Fight - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "rhythm_games_gainful_boss_fight"
+                ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Rhythm Games",
+                "x": "2022",
+                "y": "2065",
+                "size": 12
+            }
+        ]
+    },
+    {
+        "name": "Rhythm Games",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "Fit Battle",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Boss Battle",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Four Masters Battle",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Battle Gym",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Dragaux Battle",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Grassland",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Riverside",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Snow Mountain",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Night Road",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Athletic 1",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Athletic 2",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Dragaux Stadium",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Jump Up, Super Star!",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Ground Theme Band Performance - Super Mario Bros.",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Breath of the Wild Medley",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Splatoon 2 Medley",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Wii Fit Medley",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Gainful Boss Fight",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Rhythm Games",
+                "x": "2022",
+                "y": "2065",
+                "size": 6
+            }
+        ]
+    }
+]

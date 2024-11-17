@@ -1,0 +1,110 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Worlds",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "World 1",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "world_1"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "World 2",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "world_2"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "World 3",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "world_3"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Moves",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Moves"
+                    ]
+                }
+            },
+            {
+                "title": "Rhythm Games",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Rhythm Games"
+                    ]
+                }
+            },
+            {
+                "title": "Smoothies",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Smoothies"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Moves",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Moves"
+                    ]
+                }
+            },
+            {
+                "title": "Rhythm Games",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Rhythm Games"
+                    ]
+                }
+            },
+            {
+                "title": "Smoothies",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Smoothies"
+                    ]
+                }
+            },
+            {
+                "title": "Worlds",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Worlds"
+                    ]
+                }
+            }
+        ]
+    }
+}

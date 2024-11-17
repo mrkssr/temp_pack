@@ -1,0 +1,5 @@
+--Tracker:AddLocations("locations/Moves.json")
+--Tracker:AddLocations("locations/Rhythm Games.json")
+--Tracker:AddLocations("locations/Smoothies.json")
+Tracker:AddLocations("locations/worlds/world_1.json")
+--Tracker:AddLocations("locations/Overworld.json")

@@ -1,0 +1,758 @@
+[
+    {
+        "name": "lime",
+        "type": "toggle",
+        "img": "images/items/lime.png",
+        "img_mods": "",
+        "codes": "lime"
+    },
+    {
+        "name": "raisins",
+        "type": "toggle",
+        "img": "images/items/raisins.png",
+        "img_mods": "",
+        "codes": "raisins"
+    },
+    {
+        "name": "dragauxstadium",
+        "type": "toggle",
+        "img": "images/items/dragauxstadium.png",
+        "img_mods": "",
+        "codes": "dragauxstadium"
+    },
+    {
+        "name": "progressiveworld",
+        "type": "toggle",
+        "img": "images/items/progressiveworld.png",
+        "img_mods": "",
+        "codes": "progressiveworld"
+    },
+    {
+        "name": "carrot",
+        "type": "toggle",
+        "img": "images/items/carrot.png",
+        "img_mods": "",
+        "codes": "carrot"
+    },
+    {
+        "name": "radicchio",
+        "type": "toggle",
+        "img": "images/items/radicchio.png",
+        "img_mods": "",
+        "codes": "radicchio"
+    },
+    {
+        "name": "jumpup,superstar!",
+        "type": "toggle",
+        "img": "images/items/jumpup,superstar!.png",
+        "img_mods": "",
+        "codes": "jumpup,superstar!"
+    },
+    {
+        "name": "blueberries",
+        "type": "toggle",
+        "img": "images/items/blueberries.png",
+        "img_mods": "",
+        "codes": "blueberries"
+    },
+    {
+        "name": "papaya",
+        "type": "toggle",
+        "img": "images/items/papaya.png",
+        "img_mods": "",
+        "codes": "papaya"
+    },
+    {
+        "name": "blackcurrants",
+        "type": "toggle",
+        "img": "images/items/blackcurrants.png",
+        "img_mods": "",
+        "codes": "blackcurrants"
+    },
+    {
+        "name": "peach",
+        "type": "toggle",
+        "img": "images/items/peach.png",
+        "img_mods": "",
+        "codes": "peach"
+    },
+    {
+        "name": "athletic2",
+        "type": "toggle",
+        "img": "images/items/athletic2.png",
+        "img_mods": "",
+        "codes": "athletic2"
+    },
+    {
+        "name": "vanillaicecream",
+        "type": "toggle",
+        "img": "images/items/vanillaicecream.png",
+        "img_mods": "",
+        "codes": "vanillaicecream"
+    },
+    {
+        "name": "breathofthewildmedley",
+        "type": "toggle",
+        "img": "images/items/breathofthewildmedley.png",
+        "img_mods": "",
+        "codes": "breathofthewildmedley"
+    },
+    {
+        "name": "cranberries",
+        "type": "toggle",
+        "img": "images/items/cranberries.png",
+        "img_mods": "",
+        "codes": "cranberries"
+    },
+    {
+        "name": "lemongrass",
+        "type": "toggle",
+        "img": "images/items/lemongrass.png",
+        "img_mods": "",
+        "codes": "lemongrass"
+    },
+    {
+        "name": "athletic1",
+        "type": "toggle",
+        "img": "images/items/athletic1.png",
+        "img_mods": "",
+        "codes": "athletic1"
+    },
+    {
+        "name": "matchapowder",
+        "type": "toggle",
+        "img": "images/items/matchapowder.png",
+        "img_mods": "",
+        "codes": "matchapowder"
+    },
+    {
+        "name": "vinespinach",
+        "type": "toggle",
+        "img": "images/items/vinespinach.png",
+        "img_mods": "",
+        "codes": "vinespinach"
+    },
+    {
+        "name": "melon",
+        "type": "toggle",
+        "img": "images/items/melon.png",
+        "img_mods": "",
+        "codes": "melon"
+    },
+    {
+        "name": "hojichaleaves",
+        "type": "toggle",
+        "img": "images/items/hojichaleaves.png",
+        "img_mods": "",
+        "codes": "hojichaleaves"
+    },
+    {
+        "name": "persimmon",
+        "type": "toggle",
+        "img": "images/items/persimmon.png",
+        "img_mods": "",
+        "codes": "persimmon"
+    },
+    {
+        "name": "fourmastersbattle",
+        "type": "toggle",
+        "img": "images/items/fourmastersbattle.png",
+        "img_mods": "",
+        "codes": "fourmastersbattle"
+    },
+    {
+        "name": "groundthemebandperformance-supermariobros.",
+        "type": "toggle",
+        "img": "images/items/groundthemebandperformance-supermariobros..png",
+        "img_mods": "",
+        "codes": "groundthemebandperformance-supermariobros."
+    },
+    {
+        "name": "pinkgrapefruit",
+        "type": "toggle",
+        "img": "images/items/pinkgrapefruit.png",
+        "img_mods": "",
+        "codes": "pinkgrapefruit"
+    },
+    {
+        "name": "cabbage",
+        "type": "toggle",
+        "img": "images/items/cabbage.png",
+        "img_mods": "",
+        "codes": "cabbage"
+    },
+    {
+        "name": "lettuce",
+        "type": "toggle",
+        "img": "images/items/lettuce.png",
+        "img_mods": "",
+        "codes": "lettuce"
+    },
+    {
+        "name": "pumpkin",
+        "type": "toggle",
+        "img": "images/items/pumpkin.png",
+        "img_mods": "",
+        "codes": "pumpkin"
+    },
+    {
+        "name": "basil",
+        "type": "toggle",
+        "img": "images/items/basil.png",
+        "img_mods": "",
+        "codes": "basil"
+    },
+    {
+        "name": "apple",
+        "type": "toggle",
+        "img": "images/items/apple.png",
+        "img_mods": "",
+        "codes": "apple"
+    },
+    {
+        "name": "splatoon2medley",
+        "type": "toggle",
+        "img": "images/items/splatoon2medley.png",
+        "img_mods": "",
+        "codes": "splatoon2medley"
+    },
+    {
+        "name": "tomato",
+        "type": "toggle",
+        "img": "images/items/tomato.png",
+        "img_mods": "",
+        "codes": "tomato"
+    },
+    {
+        "name": "wiifitmedley",
+        "type": "toggle",
+        "img": "images/items/wiifitmedley.png",
+        "img_mods": "",
+        "codes": "wiifitmedley"
+    },
+    {
+        "name": "gains",
+        "type": "toggle",
+        "img": "images/items/gains.png",
+        "img_mods": "",
+        "codes": "gains"
+    },
+    {
+        "name": "apricot",
+        "type": "toggle",
+        "img": "images/items/apricot.png",
+        "img_mods": "",
+        "codes": "apricot"
+    },
+    {
+        "name": "snowmountain",
+        "type": "toggle",
+        "img": "images/items/snowmountain.png",
+        "img_mods": "",
+        "codes": "snowmountain"
+    },
+    {
+        "name": "onion",
+        "type": "toggle",
+        "img": "images/items/onion.png",
+        "img_mods": "",
+        "codes": "onion"
+    },
+    {
+        "name": "progressivegymmembership",
+        "type": "toggle",
+        "img": "images/items/progressivegymmembership.png",
+        "img_mods": "",
+        "codes": "progressivegymmembership"
+    },
+    {
+        "name": "pear",
+        "type": "toggle",
+        "img": "images/items/pear.png",
+        "img_mods": "",
+        "codes": "pear"
+    },
+    {
+        "name": "mandarinorange",
+        "type": "toggle",
+        "img": "images/items/mandarinorange.png",
+        "img_mods": "",
+        "codes": "mandarinorange"
+    },
+    {
+        "name": "prunes",
+        "type": "toggle",
+        "img": "images/items/prunes.png",
+        "img_mods": "",
+        "codes": "prunes"
+    },
+    {
+        "name": "ashitaba",
+        "type": "toggle",
+        "img": "images/items/ashitaba.png",
+        "img_mods": "",
+        "codes": "ashitaba"
+    },
+    {
+        "name": "greentealeaves",
+        "type": "toggle",
+        "img": "images/items/greentealeaves.png",
+        "img_mods": "",
+        "codes": "greentealeaves"
+    },
+    {
+        "name": "coffeebeans",
+        "type": "toggle",
+        "img": "images/items/coffeebeans.png",
+        "img_mods": "",
+        "codes": "coffeebeans"
+    },
+    {
+        "name": "lavender",
+        "type": "toggle",
+        "img": "images/items/lavender.png",
+        "img_mods": "",
+        "codes": "lavender"
+    },
+    {
+        "name": "fitbattle",
+        "type": "toggle",
+        "img": "images/items/fitbattle.png",
+        "img_mods": "",
+        "codes": "fitbattle"
+    },
+    {
+        "name": "hydration",
+        "type": "toggle",
+        "img": "images/items/hydration.png",
+        "img_mods": "",
+        "codes": "hydration"
+    },
+    {
+        "name": "asparagus",
+        "type": "toggle",
+        "img": "images/items/asparagus.png",
+        "img_mods": "",
+        "codes": "asparagus"
+    },
+    {
+        "name": "sugar",
+        "type": "toggle",
+        "img": "images/items/sugar.png",
+        "img_mods": "",
+        "codes": "sugar"
+    },
+    {
+        "name": "milk",
+        "type": "toggle",
+        "img": "images/items/milk.png",
+        "img_mods": "",
+        "codes": "milk"
+    },
+    {
+        "name": "dragonfruit",
+        "type": "toggle",
+        "img": "images/items/dragonfruit.png",
+        "img_mods": "",
+        "codes": "dragonfruit"
+    },
+    {
+        "name": "corn",
+        "type": "toggle",
+        "img": "images/items/corn.png",
+        "img_mods": "",
+        "codes": "corn"
+    },
+    {
+        "name": "tatsoi",
+        "type": "toggle",
+        "img": "images/items/tatsoi.png",
+        "img_mods": "",
+        "codes": "tatsoi"
+    },
+    {
+        "name": "ultimategreensmoothie",
+        "type": "toggle",
+        "img": "images/items/ultimategreensmoothie.png",
+        "img_mods": "",
+        "codes": "ultimategreensmoothie"
+    },
+    {
+        "name": "ginger",
+        "type": "toggle",
+        "img": "images/items/ginger.png",
+        "img_mods": "",
+        "codes": "ginger"
+    },
+    {
+        "name": "ultimateredsmoothie",
+        "type": "toggle",
+        "img": "images/items/ultimateredsmoothie.png",
+        "img_mods": "",
+        "codes": "ultimateredsmoothie"
+    },
+    {
+        "name": "soymilk",
+        "type": "toggle",
+        "img": "images/items/soymilk.png",
+        "img_mods": "",
+        "codes": "soymilk"
+    },
+    {
+        "name": "spinach",
+        "type": "toggle",
+        "img": "images/items/spinach.png",
+        "img_mods": "",
+        "codes": "spinach"
+    },
+    {
+        "name": "cinnamon",
+        "type": "toggle",
+        "img": "images/items/cinnamon.png",
+        "img_mods": "",
+        "codes": "cinnamon"
+    },
+    {
+        "name": "grapefruit",
+        "type": "toggle",
+        "img": "images/items/grapefruit.png",
+        "img_mods": "",
+        "codes": "grapefruit"
+    },
+    {
+        "name": "beefsteakplant",
+        "type": "toggle",
+        "img": "images/items/beefsteakplant.png",
+        "img_mods": "",
+        "codes": "beefsteakplant"
+    },
+    {
+        "name": "mango",
+        "type": "toggle",
+        "img": "images/items/mango.png",
+        "img_mods": "",
+        "codes": "mango"
+    },
+    {
+        "name": "arugula",
+        "type": "toggle",
+        "img": "images/items/arugula.png",
+        "img_mods": "",
+        "codes": "arugula"
+    },
+    {
+        "name": "avocado",
+        "type": "toggle",
+        "img": "images/items/avocado.png",
+        "img_mods": "",
+        "codes": "avocado"
+    },
+    {
+        "name": "lemon",
+        "type": "toggle",
+        "img": "images/items/lemon.png",
+        "img_mods": "",
+        "codes": "lemon"
+    },
+    {
+        "name": "bloodorange",
+        "type": "toggle",
+        "img": "images/items/bloodorange.png",
+        "img_mods": "",
+        "codes": "bloodorange"
+    },
+    {
+        "name": "kefirgrains",
+        "type": "toggle",
+        "img": "images/items/kefirgrains.png",
+        "img_mods": "",
+        "codes": "kefirgrains"
+    },
+    {
+        "name": "dragauxbattle",
+        "type": "toggle",
+        "img": "images/items/dragauxbattle.png",
+        "img_mods": "",
+        "codes": "dragauxbattle"
+    },
+    {
+        "name": "parsley",
+        "type": "toggle",
+        "img": "images/items/parsley.png",
+        "img_mods": "",
+        "codes": "parsley"
+    },
+    {
+        "name": "vinegar",
+        "type": "toggle",
+        "img": "images/items/vinegar.png",
+        "img_mods": "",
+        "codes": "vinegar"
+    },
+    {
+        "name": "fennel",
+        "type": "toggle",
+        "img": "images/items/fennel.png",
+        "img_mods": "",
+        "codes": "fennel"
+    },
+    {
+        "name": "ultimateyellowsmoothie",
+        "type": "toggle",
+        "img": "images/items/ultimateyellowsmoothie.png",
+        "img_mods": "",
+        "codes": "ultimateyellowsmoothie"
+    },
+    {
+        "name": "whitesesameseeds",
+        "type": "toggle",
+        "img": "images/items/whitesesameseeds.png",
+        "img_mods": "",
+        "codes": "whitesesameseeds"
+    },
+    {
+        "name": "chard",
+        "type": "toggle",
+        "img": "images/items/chard.png",
+        "img_mods": "",
+        "codes": "chard"
+    },
+    {
+        "name": "grapes",
+        "type": "toggle",
+        "img": "images/items/grapes.png",
+        "img_mods": "",
+        "codes": "grapes"
+    },
+    {
+        "name": "riverside",
+        "type": "toggle",
+        "img": "images/items/riverside.png",
+        "img_mods": "",
+        "codes": "riverside"
+    },
+    {
+        "name": "creamcheese",
+        "type": "toggle",
+        "img": "images/items/creamcheese.png",
+        "img_mods": "",
+        "codes": "creamcheese"
+    },
+    {
+        "name": "cress",
+        "type": "toggle",
+        "img": "images/items/cress.png",
+        "img_mods": "",
+        "codes": "cress"
+    },
+    {
+        "name": "mint",
+        "type": "toggle",
+        "img": "images/items/mint.png",
+        "img_mods": "",
+        "codes": "mint"
+    },
+    {
+        "name": "almondmilk",
+        "type": "toggle",
+        "img": "images/items/almondmilk.png",
+        "img_mods": "",
+        "codes": "almondmilk"
+    },
+    {
+        "name": "honey",
+        "type": "toggle",
+        "img": "images/items/honey.png",
+        "img_mods": "",
+        "codes": "honey"
+    },
+    {
+        "name": "ultimatebluesmoothie",
+        "type": "toggle",
+        "img": "images/items/ultimatebluesmoothie.png",
+        "img_mods": "",
+        "codes": "ultimatebluesmoothie"
+    },
+    {
+        "name": "pomegranate",
+        "type": "toggle",
+        "img": "images/items/pomegranate.png",
+        "img_mods": "",
+        "codes": "pomegranate"
+    },
+    {
+        "name": "chiaseeds",
+        "type": "toggle",
+        "img": "images/items/chiaseeds.png",
+        "img_mods": "",
+        "codes": "chiaseeds"
+    },
+    {
+        "name": "caramel",
+        "type": "toggle",
+        "img": "images/items/caramel.png",
+        "img_mods": "",
+        "codes": "caramel"
+    },
+    {
+        "name": "raspberries",
+        "type": "toggle",
+        "img": "images/items/raspberries.png",
+        "img_mods": "",
+        "codes": "raspberries"
+    },
+    {
+        "name": "strawberries",
+        "type": "toggle",
+        "img": "images/items/strawberries.png",
+        "img_mods": "",
+        "codes": "strawberries"
+    },
+    {
+        "name": "bossbattle",
+        "type": "toggle",
+        "img": "images/items/bossbattle.png",
+        "img_mods": "",
+        "codes": "bossbattle"
+    },
+    {
+        "name": "carbonatedwater",
+        "type": "toggle",
+        "img": "images/items/carbonatedwater.png",
+        "img_mods": "",
+        "codes": "carbonatedwater"
+    },
+    {
+        "name": "wheatgrass",
+        "type": "toggle",
+        "img": "images/items/wheatgrass.png",
+        "img_mods": "",
+        "codes": "wheatgrass"
+    },
+    {
+        "name": "guava",
+        "type": "toggle",
+        "img": "images/items/guava.png",
+        "img_mods": "",
+        "codes": "guava"
+    },
+    {
+        "name": "pineapple",
+        "type": "toggle",
+        "img": "images/items/pineapple.png",
+        "img_mods": "",
+        "codes": "pineapple"
+    },
+    {
+        "name": "watermelon",
+        "type": "toggle",
+        "img": "images/items/watermelon.png",
+        "img_mods": "",
+        "codes": "watermelon"
+    },
+    {
+        "name": "gelatin",
+        "type": "toggle",
+        "img": "images/items/gelatin.png",
+        "img_mods": "",
+        "codes": "gelatin"
+    },
+    {
+        "name": "kiwi",
+        "type": "toggle",
+        "img": "images/items/kiwi.png",
+        "img_mods": "",
+        "codes": "kiwi"
+    },
+    {
+        "name": "celery",
+        "type": "toggle",
+        "img": "images/items/celery.png",
+        "img_mods": "",
+        "codes": "celery"
+    },
+    {
+        "name": "battlegym",
+        "type": "toggle",
+        "img": "images/items/battlegym.png",
+        "img_mods": "",
+        "codes": "battlegym"
+    },
+    {
+        "name": "yogurt",
+        "type": "toggle",
+        "img": "images/items/yogurt.png",
+        "img_mods": "",
+        "codes": "yogurt"
+    },
+    {
+        "name": "grassland",
+        "type": "toggle",
+        "img": "images/items/grassland.png",
+        "img_mods": "",
+        "codes": "grassland"
+    },
+    {
+        "name": "bananas",
+        "type": "toggle",
+        "img": "images/items/bananas.png",
+        "img_mods": "",
+        "codes": "bananas"
+    },
+    {
+        "name": "blacktealeaves",
+        "type": "toggle",
+        "img": "images/items/blacktealeaves.png",
+        "img_mods": "",
+        "codes": "blacktealeaves"
+    },
+    {
+        "name": "kale",
+        "type": "toggle",
+        "img": "images/items/kale.png",
+        "img_mods": "",
+        "codes": "kale"
+    },
+    {
+        "name": "cherries",
+        "type": "toggle",
+        "img": "images/items/cherries.png",
+        "img_mods": "",
+        "codes": "cherries"
+    },
+    {
+        "name": "nightroad",
+        "type": "toggle",
+        "img": "images/items/nightroad.png",
+        "img_mods": "",
+        "codes": "nightroad"
+    },
+    {
+        "name": "plum",
+        "type": "toggle",
+        "img": "images/items/plum.png",
+        "img_mods": "",
+        "codes": "plum"
+    },
+    {
+        "name": "orange",
+        "type": "toggle",
+        "img": "images/items/orange.png",
+        "img_mods": "",
+        "codes": "orange"
+    },
+    {
+        "name": "fig",
+        "type": "toggle",
+        "img": "images/items/fig.png",
+        "img_mods": "",
+        "codes": "fig"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "img_mods": "",
+        "codes": "update"
+    }
+]

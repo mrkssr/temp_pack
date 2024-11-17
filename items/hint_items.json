@@ -1,0 +1,2277 @@
+[
+    {
+        "name": "worlds_world_15_15._lower_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._lower_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._lower_road"
+    },
+    {
+        "name": "worlds_world_20_20._temple_of_balance",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._temple_of_balance.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._temple_of_balance"
+    },
+    {
+        "name": "worlds_world_15_15._squat_square",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._squat_square.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._squat_square"
+    },
+    {
+        "name": "worlds_world_14_14._gym_abs_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._gym_abs_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._gym_abs_set"
+    },
+    {
+        "name": "worlds_world_23_23._closing_coaster",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._closing_coaster.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._closing_coaster"
+    },
+    {
+        "name": "worlds_world_18_18._rail_to_the_chief",
+        "type": "toggle",
+        "img": "images/items/worlds_world_18_18._rail_to_the_chief.png",
+        "img_mods": "",
+        "codes": "worlds_world_18_18._rail_to_the_chief"
+    },
+    {
+        "name": "worlds_world_22_22._gym_aerobic_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._gym_aerobic_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._gym_aerobic_set"
+    },
+    {
+        "name": "worlds_world_5_05._birdseye_mountain_trail",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._birdseye_mountain_trail.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._birdseye_mountain_trail"
+    },
+    {
+        "name": "rhythm_games_athletic_2",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_athletic_2.png",
+        "img_mods": "",
+        "codes": "rhythm_games_athletic_2"
+    },
+    {
+        "name": "worlds_world_9_09._gym_dreadmill",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._gym_dreadmill.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._gym_dreadmill"
+    },
+    {
+        "name": "smoothies_ultimate_blue_smoothie",
+        "type": "toggle",
+        "img": "images/items/smoothies_ultimate_blue_smoothie.png",
+        "img_mods": "",
+        "codes": "smoothies_ultimate_blue_smoothie"
+    },
+    {
+        "name": "worlds_world_6_06._gym_smack_back",
+        "type": "toggle",
+        "img": "images/items/worlds_world_6_06._gym_smack_back.png",
+        "img_mods": "",
+        "codes": "worlds_world_6_06._gym_smack_back"
+    },
+    {
+        "name": "worlds_world_19_19._wanoh_hills",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._wanoh_hills.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._wanoh_hills"
+    },
+    {
+        "name": "worlds_world_19_19._gym_thigh_rider",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._gym_thigh_rider.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._gym_thigh_rider"
+    },
+    {
+        "name": "worlds_world_19_19._ohwanwan_route",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._ohwanwan_route.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._ohwanwan_route"
+    },
+    {
+        "name": "rhythm_games_night_road",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_night_road.png",
+        "img_mods": "",
+        "codes": "rhythm_games_night_road"
+    },
+    {
+        "name": "moves_yellow_open_&_close_leg_raise",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_open_&_close_leg_raise.png",
+        "img_mods": "",
+        "codes": "moves_yellow_open_&_close_leg_raise"
+    },
+    {
+        "name": "worlds_world_3_03._hopskip_corridor",
+        "type": "toggle",
+        "img": "images/items/worlds_world_3_03._hopskip_corridor.png",
+        "img_mods": "",
+        "codes": "worlds_world_3_03._hopskip_corridor"
+    },
+    {
+        "name": "worlds_world_23_23._gym_back_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._gym_back_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._gym_back_set"
+    },
+    {
+        "name": "worlds_world_16_16._gym_gluting_gallery",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._gym_gluting_gallery.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._gym_gluting_gallery"
+    },
+    {
+        "name": "worlds_world_20_20._swift_spire",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._swift_spire.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._swift_spire"
+    },
+    {
+        "name": "worlds_world_4_04._out-of-the-way_way",
+        "type": "toggle",
+        "img": "images/items/worlds_world_4_04._out-of-the-way_way.png",
+        "img_mods": "",
+        "codes": "worlds_world_4_04._out-of-the-way_way"
+    },
+    {
+        "name": "worlds_world_23_23._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_15_15._upper_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._upper_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._upper_road"
+    },
+    {
+        "name": "worlds_world_9_09._arms-race_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._arms-race_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._arms-race_gym"
+    },
+    {
+        "name": "moves_yellow_overhead_lunge_twist",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_overhead_lunge_twist.png",
+        "img_mods": "",
+        "codes": "moves_yellow_overhead_lunge_twist"
+    },
+    {
+        "name": "worlds_world_5_05._twilight_highway",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._twilight_highway.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._twilight_highway"
+    },
+    {
+        "name": "worlds_world_7_07._swing_gate",
+        "type": "toggle",
+        "img": "images/items/worlds_world_7_07._swing_gate.png",
+        "img_mods": "",
+        "codes": "worlds_world_7_07._swing_gate"
+    },
+    {
+        "name": "worlds_world_17_17._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_17_17._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_17_17._gym_battle_gym"
+    },
+    {
+        "name": "worlds_world_11_11._gym_waist_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._gym_waist_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._gym_waist_set"
+    },
+    {
+        "name": "worlds_world_12_12._monster_den",
+        "type": "toggle",
+        "img": "images/items/worlds_world_12_12._monster_den.png",
+        "img_mods": "",
+        "codes": "worlds_world_12_12._monster_den"
+    },
+    {
+        "name": "moves_yellow_overhead_side_bend",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_overhead_side_bend.png",
+        "img_mods": "",
+        "codes": "moves_yellow_overhead_side_bend"
+    },
+    {
+        "name": "worlds_world_16_16._flutterpeak_pass",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._flutterpeak_pass.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._flutterpeak_pass"
+    },
+    {
+        "name": "worlds_world_5_05._gym_bootstrap_tower",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._gym_bootstrap_tower.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._gym_bootstrap_tower"
+    },
+    {
+        "name": "worlds_world_4_04._sportan_waters",
+        "type": "toggle",
+        "img": "images/items/worlds_world_4_04._sportan_waters.png",
+        "img_mods": "",
+        "codes": "worlds_world_4_04._sportan_waters"
+    },
+    {
+        "name": "worlds_world_9_09._otherside_waterway",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._otherside_waterway.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._otherside_waterway"
+    },
+    {
+        "name": "worlds_world_13_13._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_13_13._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_13_13._dragaux_stadium"
+    },
+    {
+        "name": "moves_yellow_overhead_hip_shake",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_overhead_hip_shake.png",
+        "img_mods": "",
+        "codes": "moves_yellow_overhead_hip_shake"
+    },
+    {
+        "name": "worlds_world_7_07._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_7_07._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_7_07._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_23_23._hindmost_highway",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._hindmost_highway.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._hindmost_highway"
+    },
+    {
+        "name": "worlds_world_5_05._exertion_corridor",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._exertion_corridor.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._exertion_corridor"
+    },
+    {
+        "name": "worlds_world_3_03._gym_squat_goals",
+        "type": "toggle",
+        "img": "images/items/worlds_world_3_03._gym_squat_goals.png",
+        "img_mods": "",
+        "codes": "worlds_world_3_03._gym_squat_goals"
+    },
+    {
+        "name": "worlds_world_20_20._gym_squat_goals",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._gym_squat_goals.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._gym_squat_goals"
+    },
+    {
+        "name": "worlds_world_11_11._gym_battle_gym_2",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._gym_battle_gym_2.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._gym_battle_gym_2"
+    },
+    {
+        "name": "worlds_world_20_20._bolthole_tunnel",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._bolthole_tunnel.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._bolthole_tunnel"
+    },
+    {
+        "name": "worlds_world_4_04._dojo_sporta",
+        "type": "toggle",
+        "img": "images/items/worlds_world_4_04._dojo_sporta.png",
+        "img_mods": "",
+        "codes": "worlds_world_4_04._dojo_sporta"
+    },
+    {
+        "name": "worlds_world_17_17._gym_robo-wrecker",
+        "type": "toggle",
+        "img": "images/items/worlds_world_17_17._gym_robo-wrecker.png",
+        "img_mods": "",
+        "codes": "worlds_world_17_17._gym_robo-wrecker"
+    },
+    {
+        "name": "worlds_world_14_14._gym_aerochute",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._gym_aerochute.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._gym_aerochute"
+    },
+    {
+        "name": "worlds_world_20_20._gym_trapezius_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._gym_trapezius_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._gym_trapezius_set"
+    },
+    {
+        "name": "moves_yellow_seated_forward_press",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_seated_forward_press.png",
+        "img_mods": "",
+        "codes": "moves_yellow_seated_forward_press"
+    },
+    {
+        "name": "worlds_world_19_19._wanohwanoh_way",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._wanohwanoh_way.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._wanohwanoh_way"
+    },
+    {
+        "name": "rhythm_games_splatoon_2_medley",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_splatoon_2_medley.png",
+        "img_mods": "",
+        "codes": "rhythm_games_splatoon_2_medley"
+    },
+    {
+        "name": "worlds_world_16_16._gym_crate_crasher",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._gym_crate_crasher.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._gym_crate_crasher"
+    },
+    {
+        "name": "worlds_world_20_20._gym_gluting_gallery",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._gym_gluting_gallery.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._gym_gluting_gallery"
+    },
+    {
+        "name": "worlds_world_17_17._backways_path",
+        "type": "toggle",
+        "img": "images/items/worlds_world_17_17._backways_path.png",
+        "img_mods": "",
+        "codes": "worlds_world_17_17._backways_path"
+    },
+    {
+        "name": "worlds_world_1_01._beginnia",
+        "type": "toggle",
+        "img": "images/items/worlds_world_1_01._beginnia.png",
+        "img_mods": "",
+        "codes": "worlds_world_1_01._beginnia"
+    },
+    {
+        "name": "worlds_world_10_10._gym_core_crushing",
+        "type": "toggle",
+        "img": "images/items/worlds_world_10_10._gym_core_crushing.png",
+        "img_mods": "",
+        "codes": "worlds_world_10_10._gym_core_crushing"
+    },
+    {
+        "name": "worlds_world_23_23._last_lookout",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._last_lookout.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._last_lookout"
+    },
+    {
+        "name": "moves_green_boat_pose",
+        "type": "toggle",
+        "img": "images/items/moves_green_boat_pose.png",
+        "img_mods": "",
+        "codes": "moves_green_boat_pose"
+    },
+    {
+        "name": "rhythm_games_jump_up,_super_star!",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_jump_up,_super_star!.png",
+        "img_mods": "",
+        "codes": "rhythm_games_jump_up,_super_star!"
+    },
+    {
+        "name": "worlds_world_19_19._ohwanoh_factory",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._ohwanoh_factory.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._ohwanoh_factory"
+    },
+    {
+        "name": "worlds_world_7_07._gym_gluting_gallery",
+        "type": "toggle",
+        "img": "images/items/worlds_world_7_07._gym_gluting_gallery.png",
+        "img_mods": "",
+        "codes": "worlds_world_7_07._gym_gluting_gallery"
+    },
+    {
+        "name": "worlds_world_11_11._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._gym_battle_gym"
+    },
+    {
+        "name": "worlds_world_14_14._steadfast_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._steadfast_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._steadfast_road"
+    },
+    {
+        "name": "worlds_world_7_07._gym_squat_camp",
+        "type": "toggle",
+        "img": "images/items/worlds_world_7_07._gym_squat_camp.png",
+        "img_mods": "",
+        "codes": "worlds_world_7_07._gym_squat_camp"
+    },
+    {
+        "name": "worlds_world_6_06._six_park",
+        "type": "toggle",
+        "img": "images/items/worlds_world_6_06._six_park.png",
+        "img_mods": "",
+        "codes": "worlds_world_6_06._six_park"
+    },
+    {
+        "name": "worlds_world_14_14._high-roller_complex",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._high-roller_complex.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._high-roller_complex"
+    },
+    {
+        "name": "worlds_world_9_09._gym_chest_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._gym_chest_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._gym_chest_set"
+    },
+    {
+        "name": "worlds_world_12_12._fluttering_heights",
+        "type": "toggle",
+        "img": "images/items/worlds_world_12_12._fluttering_heights.png",
+        "img_mods": "",
+        "codes": "worlds_world_12_12._fluttering_heights"
+    },
+    {
+        "name": "worlds_world_22_22._gym_bank_balance",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._gym_bank_balance.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._gym_bank_balance"
+    },
+    {
+        "name": "worlds_world_19_19._ohoh_valley",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._ohoh_valley.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._ohoh_valley"
+    },
+    {
+        "name": "worlds_world_7_07._beaut_camp",
+        "type": "toggle",
+        "img": "images/items/worlds_world_7_07._beaut_camp.png",
+        "img_mods": "",
+        "codes": "worlds_world_7_07._beaut_camp"
+    },
+    {
+        "name": "worlds_world_3_03._general_factory",
+        "type": "toggle",
+        "img": "images/items/worlds_world_3_03._general_factory.png",
+        "img_mods": "",
+        "codes": "worlds_world_3_03._general_factory"
+    },
+    {
+        "name": "worlds_world_11_11._soak_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._soak_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._soak_road"
+    },
+    {
+        "name": "worlds_world_17_17._gym_squattery_wheel",
+        "type": "toggle",
+        "img": "images/items/worlds_world_17_17._gym_squattery_wheel.png",
+        "img_mods": "",
+        "codes": "worlds_world_17_17._gym_squattery_wheel"
+    },
+    {
+        "name": "worlds_world_10_10._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_10_10._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_10_10._dragaux_stadium"
+    },
+    {
+        "name": "rhythm_games_snow_mountain",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_snow_mountain.png",
+        "img_mods": "",
+        "codes": "rhythm_games_snow_mountain"
+    },
+    {
+        "name": "worlds_world_10_10._gym_squat_goals",
+        "type": "toggle",
+        "img": "images/items/worlds_world_10_10._gym_squat_goals.png",
+        "img_mods": "",
+        "codes": "worlds_world_10_10._gym_squat_goals"
+    },
+    {
+        "name": "worlds_world_16_16._piston-pump_rail",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._piston-pump_rail.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._piston-pump_rail"
+    },
+    {
+        "name": "moves_blue_side_step",
+        "type": "toggle",
+        "img": "images/items/moves_blue_side_step.png",
+        "img_mods": "",
+        "codes": "moves_blue_side_step"
+    },
+    {
+        "name": "worlds_world_23_23._ultimate_hollow",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._ultimate_hollow.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._ultimate_hollow"
+    },
+    {
+        "name": "worlds_world_17_17._hangon_bridge",
+        "type": "toggle",
+        "img": "images/items/worlds_world_17_17._hangon_bridge.png",
+        "img_mods": "",
+        "codes": "worlds_world_17_17._hangon_bridge"
+    },
+    {
+        "name": "worlds_world_18_18._wintry_watchtower",
+        "type": "toggle",
+        "img": "images/items/worlds_world_18_18._wintry_watchtower.png",
+        "img_mods": "",
+        "codes": "worlds_world_18_18._wintry_watchtower"
+    },
+    {
+        "name": "moves_blue_wide_squat",
+        "type": "toggle",
+        "img": "images/items/moves_blue_wide_squat.png",
+        "img_mods": "",
+        "codes": "moves_blue_wide_squat"
+    },
+    {
+        "name": "worlds_world_19_19._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._gym_battle_gym"
+    },
+    {
+        "name": "worlds_world_22_22._perspiration_paradise",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._perspiration_paradise.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._perspiration_paradise"
+    },
+    {
+        "name": "moves_yellow_overhead_bend",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_overhead_bend.png",
+        "img_mods": "",
+        "codes": "moves_yellow_overhead_bend"
+    },
+    {
+        "name": "worlds_world_5_05._exertion_river",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._exertion_river.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._exertion_river"
+    },
+    {
+        "name": "rhythm_games_athletic_1",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_athletic_1.png",
+        "img_mods": "",
+        "codes": "rhythm_games_athletic_1"
+    },
+    {
+        "name": "worlds_world_8_08._gutterflow_temple",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._gutterflow_temple.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._gutterflow_temple"
+    },
+    {
+        "name": "worlds_world_11_11._gym_crate_crasher",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._gym_crate_crasher.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._gym_crate_crasher"
+    },
+    {
+        "name": "worlds_world_10_10._gym_aerochute",
+        "type": "toggle",
+        "img": "images/items/worlds_world_10_10._gym_aerochute.png",
+        "img_mods": "",
+        "codes": "worlds_world_10_10._gym_aerochute"
+    },
+    {
+        "name": "worlds_world_15_15._benchpress_battleground",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._benchpress_battleground.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._benchpress_battleground"
+    },
+    {
+        "name": "moves_blue_ring_raise_combo",
+        "type": "toggle",
+        "img": "images/items/moves_blue_ring_raise_combo.png",
+        "img_mods": "",
+        "codes": "moves_blue_ring_raise_combo"
+    },
+    {
+        "name": "worlds_world_22_22._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._gym_battle_gym"
+    },
+    {
+        "name": "worlds_world_5_05._arms-race_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._arms-race_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._arms-race_gym"
+    },
+    {
+        "name": "worlds_world_19_19._gym_battle_gym_2",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._gym_battle_gym_2.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._gym_battle_gym_2"
+    },
+    {
+        "name": "rhythm_games_breath_of_the_wild_medley",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_breath_of_the_wild_medley.png",
+        "img_mods": "",
+        "codes": "rhythm_games_breath_of_the_wild_medley"
+    },
+    {
+        "name": "worlds_world_12_12._gym_flexibility_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_12_12._gym_flexibility_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_12_12._gym_flexibility_set"
+    },
+    {
+        "name": "moves_green_chair_pose",
+        "type": "toggle",
+        "img": "images/items/moves_green_chair_pose.png",
+        "img_mods": "",
+        "codes": "moves_green_chair_pose"
+    },
+    {
+        "name": "worlds_world_11_11._gym_bank_balance",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._gym_bank_balance.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._gym_bank_balance"
+    },
+    {
+        "name": "worlds_world_23_23._gym_aerochute",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._gym_aerochute.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._gym_aerochute"
+    },
+    {
+        "name": "worlds_world_5_05._armie_temple",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._armie_temple.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._armie_temple"
+    },
+    {
+        "name": "worlds_world_15_15._north_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._north_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._north_road"
+    },
+    {
+        "name": "worlds_world_22_22._gym_core_crushing",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._gym_core_crushing.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._gym_core_crushing"
+    },
+    {
+        "name": "worlds_world_18_18._chief's_house",
+        "type": "toggle",
+        "img": "images/items/worlds_world_18_18._chief's_house.png",
+        "img_mods": "",
+        "codes": "worlds_world_18_18._chief's_house"
+    },
+    {
+        "name": "worlds_world_21_21._gym_battle_gym_2",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._gym_battle_gym_2.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._gym_battle_gym_2"
+    },
+    {
+        "name": "worlds_world_20_20._howling_hollow",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._howling_hollow.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._howling_hollow"
+    },
+    {
+        "name": "worlds_world_16_16._scrambled_wasteland",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._scrambled_wasteland.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._scrambled_wasteland"
+    },
+    {
+        "name": "worlds_world_19_19._ohohwan_river",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._ohohwan_river.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._ohohwan_river"
+    },
+    {
+        "name": "moves_blue_overhead_squat",
+        "type": "toggle",
+        "img": "images/items/moves_blue_overhead_squat.png",
+        "img_mods": "",
+        "codes": "moves_blue_overhead_squat"
+    },
+    {
+        "name": "worlds_world_8_08._gym_battle_gym_2",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._gym_battle_gym_2.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._gym_battle_gym_2"
+    },
+    {
+        "name": "rhythm_games_riverside",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_riverside.png",
+        "img_mods": "",
+        "codes": "rhythm_games_riverside"
+    },
+    {
+        "name": "worlds_world_7_07._gym_core_crushing",
+        "type": "toggle",
+        "img": "images/items/worlds_world_7_07._gym_core_crushing.png",
+        "img_mods": "",
+        "codes": "worlds_world_7_07._gym_core_crushing"
+    },
+    {
+        "name": "worlds_world_9_09._gym_squattery_wheel",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._gym_squattery_wheel.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._gym_squattery_wheel"
+    },
+    {
+        "name": "worlds_world_22_22._six-peak_temple",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._six-peak_temple.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._six-peak_temple"
+    },
+    {
+        "name": "worlds_world_15_15._sedentary_swamp",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._sedentary_swamp.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._sedentary_swamp"
+    },
+    {
+        "name": "worlds_world_4_04._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_4_04._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_4_04._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_4_04._gym_crate_crasher",
+        "type": "toggle",
+        "img": "images/items/worlds_world_4_04._gym_crate_crasher.png",
+        "img_mods": "",
+        "codes": "worlds_world_4_04._gym_crate_crasher"
+    },
+    {
+        "name": "worlds_world_18_18._gym_aerochute",
+        "type": "toggle",
+        "img": "images/items/worlds_world_18_18._gym_aerochute.png",
+        "img_mods": "",
+        "codes": "worlds_world_18_18._gym_aerochute"
+    },
+    {
+        "name": "worlds_world_7_07._gym_glutes_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_7_07._gym_glutes_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_7_07._gym_glutes_set"
+    },
+    {
+        "name": "worlds_world_21_21._ribcage_peak",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._ribcage_peak.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._ribcage_peak"
+    },
+    {
+        "name": "worlds_world_21_21._gym_squattery_wheel",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._gym_squattery_wheel.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._gym_squattery_wheel"
+    },
+    {
+        "name": "worlds_world_10_10._gym_thigh_rider",
+        "type": "toggle",
+        "img": "images/items/worlds_world_10_10._gym_thigh_rider.png",
+        "img_mods": "",
+        "codes": "worlds_world_10_10._gym_thigh_rider"
+    },
+    {
+        "name": "worlds_world_12_12._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_12_12._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_12_12._gym_battle_gym"
+    },
+    {
+        "name": "worlds_world_5_05._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_10_10._gym_gluting_gallery",
+        "type": "toggle",
+        "img": "images/items/worlds_world_10_10._gym_gluting_gallery.png",
+        "img_mods": "",
+        "codes": "worlds_world_10_10._gym_gluting_gallery"
+    },
+    {
+        "name": "worlds_world_6_06._gym_squattery_wheel",
+        "type": "toggle",
+        "img": "images/items/worlds_world_6_06._gym_squattery_wheel.png",
+        "img_mods": "",
+        "codes": "worlds_world_6_06._gym_squattery_wheel"
+    },
+    {
+        "name": "worlds_world_22_22._judgment_pass",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._judgment_pass.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._judgment_pass"
+    },
+    {
+        "name": "worlds_world_15_15._hot_spot",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._hot_spot.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._hot_spot"
+    },
+    {
+        "name": "worlds_world_6_06._arms-race_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_6_06._arms-race_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_6_06._arms-race_gym"
+    },
+    {
+        "name": "worlds_world_13_13._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_13_13._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_13_13._gym_battle_gym"
+    },
+    {
+        "name": "worlds_world_9_09._flyover_wilds",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._flyover_wilds.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._flyover_wilds"
+    },
+    {
+        "name": "moves_red_front_press",
+        "type": "toggle",
+        "img": "images/items/moves_red_front_press.png",
+        "img_mods": "",
+        "codes": "moves_red_front_press"
+    },
+    {
+        "name": "moves_red_shoulder_press",
+        "type": "toggle",
+        "img": "images/items/moves_red_shoulder_press.png",
+        "img_mods": "",
+        "codes": "moves_red_shoulder_press"
+    },
+    {
+        "name": "worlds_world_7_07._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_7_07._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_7_07._gym_battle_gym"
+    },
+    {
+        "name": "moves_green_hinge_pose",
+        "type": "toggle",
+        "img": "images/items/moves_green_hinge_pose.png",
+        "img_mods": "",
+        "codes": "moves_green_hinge_pose"
+    },
+    {
+        "name": "worlds_world_11_11._twilight_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._twilight_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._twilight_road"
+    },
+    {
+        "name": "worlds_world_9_09._beltline_tower",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._beltline_tower.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._beltline_tower"
+    },
+    {
+        "name": "worlds_world_7_07._trotter's_grove",
+        "type": "toggle",
+        "img": "images/items/worlds_world_7_07._trotter's_grove.png",
+        "img_mods": "",
+        "codes": "worlds_world_7_07._trotter's_grove"
+    },
+    {
+        "name": "worlds_world_8_08._solar_plexia's_shrine",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._solar_plexia's_shrine.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._solar_plexia's_shrine"
+    },
+    {
+        "name": "worlds_world_12_12._clever-trick_temple",
+        "type": "toggle",
+        "img": "images/items/worlds_world_12_12._clever-trick_temple.png",
+        "img_mods": "",
+        "codes": "worlds_world_12_12._clever-trick_temple"
+    },
+    {
+        "name": "worlds_world_21_21._entrance_to_hades",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._entrance_to_hades.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._entrance_to_hades"
+    },
+    {
+        "name": "moves_blue_hip_lift",
+        "type": "toggle",
+        "img": "images/items/moves_blue_hip_lift.png",
+        "img_mods": "",
+        "codes": "moves_blue_hip_lift"
+    },
+    {
+        "name": "moves_yellow_plank",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_plank.png",
+        "img_mods": "",
+        "codes": "moves_yellow_plank"
+    },
+    {
+        "name": "worlds_world_9_09._gym_smack_back",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._gym_smack_back.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._gym_smack_back"
+    },
+    {
+        "name": "worlds_world_20_20._hang-tough_temple",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._hang-tough_temple.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._hang-tough_temple"
+    },
+    {
+        "name": "moves_yellow_knee-to-chest",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_knee-to-chest.png",
+        "img_mods": "",
+        "codes": "moves_yellow_knee-to-chest"
+    },
+    {
+        "name": "worlds_world_17_17._inside_strait",
+        "type": "toggle",
+        "img": "images/items/worlds_world_17_17._inside_strait.png",
+        "img_mods": "",
+        "codes": "worlds_world_17_17._inside_strait"
+    },
+    {
+        "name": "moves_blue_knee_lift",
+        "type": "toggle",
+        "img": "images/items/moves_blue_knee_lift.png",
+        "img_mods": "",
+        "codes": "moves_blue_knee_lift"
+    },
+    {
+        "name": "worlds_world_14_14._turmoil_territory",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._turmoil_territory.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._turmoil_territory"
+    },
+    {
+        "name": "worlds_world_17_17._sweat_street",
+        "type": "toggle",
+        "img": "images/items/worlds_world_17_17._sweat_street.png",
+        "img_mods": "",
+        "codes": "worlds_world_17_17._sweat_street"
+    },
+    {
+        "name": "worlds_world_20_20._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_16_16._wingflap_falls",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._wingflap_falls.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._wingflap_falls"
+    },
+    {
+        "name": "worlds_world_6_06._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_6_06._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_6_06._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_14_14._gym_bootstrap_tower",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._gym_bootstrap_tower.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._gym_bootstrap_tower"
+    },
+    {
+        "name": "worlds_world_14_14._gym_thigh_rider",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._gym_thigh_rider.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._gym_thigh_rider"
+    },
+    {
+        "name": "worlds_world_22_22._slab_paradise",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._slab_paradise.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._slab_paradise"
+    },
+    {
+        "name": "worlds_world_14_14._disappearance_path",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._disappearance_path.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._disappearance_path"
+    },
+    {
+        "name": "moves_green_warrior_i_pose",
+        "type": "toggle",
+        "img": "images/items/moves_green_warrior_i_pose.png",
+        "img_mods": "",
+        "codes": "moves_green_warrior_i_pose"
+    },
+    {
+        "name": "moves_green_fan_pose",
+        "type": "toggle",
+        "img": "images/items/moves_green_fan_pose.png",
+        "img_mods": "",
+        "codes": "moves_green_fan_pose"
+    },
+    {
+        "name": "worlds_world_19_19._heave-ho_checkpoint",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._heave-ho_checkpoint.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._heave-ho_checkpoint"
+    },
+    {
+        "name": "worlds_world_19_19._gym_upper_arms_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._gym_upper_arms_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._gym_upper_arms_set"
+    },
+    {
+        "name": "worlds_world_20_20._gym_crate_crasher",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._gym_crate_crasher.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._gym_crate_crasher"
+    },
+    {
+        "name": "worlds_world_2_02._nightcloak_pass",
+        "type": "toggle",
+        "img": "images/items/worlds_world_2_02._nightcloak_pass.png",
+        "img_mods": "",
+        "codes": "worlds_world_2_02._nightcloak_pass"
+    },
+    {
+        "name": "worlds_world_11_11._cowardly_strongman's_house",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._cowardly_strongman's_house.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._cowardly_strongman's_house"
+    },
+    {
+        "name": "worlds_world_9_09._no-brakes_mine",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._no-brakes_mine.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._no-brakes_mine"
+    },
+    {
+        "name": "worlds_world_12_12._temple_of_balance",
+        "type": "toggle",
+        "img": "images/items/worlds_world_12_12._temple_of_balance.png",
+        "img_mods": "",
+        "codes": "worlds_world_12_12._temple_of_balance"
+    },
+    {
+        "name": "moves_yellow_pendulum_bend",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_pendulum_bend.png",
+        "img_mods": "",
+        "codes": "moves_yellow_pendulum_bend"
+    },
+    {
+        "name": "worlds_world_11_11._sunset_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._sunset_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._sunset_road"
+    },
+    {
+        "name": "rhythm_games_boss_battle",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_boss_battle.png",
+        "img_mods": "",
+        "codes": "rhythm_games_boss_battle"
+    },
+    {
+        "name": "worlds_world_21_21._rear_byway",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._rear_byway.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._rear_byway"
+    },
+    {
+        "name": "worlds_world_2_02._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_2_02._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_2_02._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_16_16._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._gym_battle_gym"
+    },
+    {
+        "name": "rhythm_games_four_masters_battle",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_four_masters_battle.png",
+        "img_mods": "",
+        "codes": "rhythm_games_four_masters_battle"
+    },
+    {
+        "name": "worlds_world_12_12._tornado_temple",
+        "type": "toggle",
+        "img": "images/items/worlds_world_12_12._tornado_temple.png",
+        "img_mods": "",
+        "codes": "worlds_world_12_12._tornado_temple"
+    },
+    {
+        "name": "worlds_world_5_05._gym_thigh_rider",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._gym_thigh_rider.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._gym_thigh_rider"
+    },
+    {
+        "name": "worlds_world_9_09._gym_bootstrap_tower",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._gym_bootstrap_tower.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._gym_bootstrap_tower"
+    },
+    {
+        "name": "worlds_world_16_16._beaut_camp",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._beaut_camp.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._beaut_camp"
+    },
+    {
+        "name": "worlds_world_14_14._misty_corridor",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._misty_corridor.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._misty_corridor"
+    },
+    {
+        "name": "worlds_world_7_07._starting-block_bridge",
+        "type": "toggle",
+        "img": "images/items/worlds_world_7_07._starting-block_bridge.png",
+        "img_mods": "",
+        "codes": "worlds_world_7_07._starting-block_bridge"
+    },
+    {
+        "name": "worlds_world_21_21._jog-on_bog",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._jog-on_bog.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._jog-on_bog"
+    },
+    {
+        "name": "worlds_world_19_19._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_17_17._gym_bootstrap_tower",
+        "type": "toggle",
+        "img": "images/items/worlds_world_17_17._gym_bootstrap_tower.png",
+        "img_mods": "",
+        "codes": "worlds_world_17_17._gym_bootstrap_tower"
+    },
+    {
+        "name": "rhythm_games_grassland",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_grassland.png",
+        "img_mods": "",
+        "codes": "rhythm_games_grassland"
+    },
+    {
+        "name": "worlds_world_23_23._stadium_grounds",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._stadium_grounds.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._stadium_grounds"
+    },
+    {
+        "name": "worlds_world_2_02._dashalong_tower",
+        "type": "toggle",
+        "img": "images/items/worlds_world_2_02._dashalong_tower.png",
+        "img_mods": "",
+        "codes": "worlds_world_2_02._dashalong_tower"
+    },
+    {
+        "name": "moves_yellow_russian_twist",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_russian_twist.png",
+        "img_mods": "",
+        "codes": "moves_yellow_russian_twist"
+    },
+    {
+        "name": "rhythm_games_wii_fit_medley",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_wii_fit_medley.png",
+        "img_mods": "",
+        "codes": "rhythm_games_wii_fit_medley"
+    },
+    {
+        "name": "worlds_world_23_23._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._gym_battle_gym"
+    },
+    {
+        "name": "worlds_world_1_01._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_1_01._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_1_01._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_16_16._flyover_pass",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._flyover_pass.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._flyover_pass"
+    },
+    {
+        "name": "worlds_world_11_11._athlete's_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._athlete's_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._athlete's_road"
+    },
+    {
+        "name": "worlds_world_16_16._gym_lower_body_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._gym_lower_body_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._gym_lower_body_set"
+    },
+    {
+        "name": "smoothies_ultimate_yellow_smoothie",
+        "type": "toggle",
+        "img": "images/items/smoothies_ultimate_yellow_smoothie.png",
+        "img_mods": "",
+        "codes": "smoothies_ultimate_yellow_smoothie"
+    },
+    {
+        "name": "worlds_world_11_11._hasty_highway",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._hasty_highway.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._hasty_highway"
+    },
+    {
+        "name": "worlds_world_4_04._sporta_treasury",
+        "type": "toggle",
+        "img": "images/items/worlds_world_4_04._sporta_treasury.png",
+        "img_mods": "",
+        "codes": "worlds_world_4_04._sporta_treasury"
+    },
+    {
+        "name": "worlds_world_14_14._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._gym_battle_gym"
+    },
+    {
+        "name": "worlds_world_14_14._missed_highway",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._missed_highway.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._missed_highway"
+    },
+    {
+        "name": "worlds_world_23_23._gym_smack_back",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._gym_smack_back.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._gym_smack_back"
+    },
+    {
+        "name": "moves_green_warrior_ii_pose",
+        "type": "toggle",
+        "img": "images/items/moves_green_warrior_ii_pose.png",
+        "img_mods": "",
+        "codes": "moves_green_warrior_ii_pose"
+    },
+    {
+        "name": "worlds_world_16_16._gym_dreadmill",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._gym_dreadmill.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._gym_dreadmill"
+    },
+    {
+        "name": "worlds_world_5_05._gym_bank_balance",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._gym_bank_balance.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._gym_bank_balance"
+    },
+    {
+        "name": "worlds_world_5_05._leap-of-faith_falls",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._leap-of-faith_falls.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._leap-of-faith_falls"
+    },
+    {
+        "name": "worlds_world_21_21._inner_byway",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._inner_byway.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._inner_byway"
+    },
+    {
+        "name": "moves_red_overhead_arm_twist",
+        "type": "toggle",
+        "img": "images/items/moves_red_overhead_arm_twist.png",
+        "img_mods": "",
+        "codes": "moves_red_overhead_arm_twist"
+    },
+    {
+        "name": "worlds_world_14_14._gazelle_channel",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._gazelle_channel.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._gazelle_channel"
+    },
+    {
+        "name": "worlds_world_15_15._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._gym_battle_gym"
+    },
+    {
+        "name": "worlds_world_23_23._stadium_barricade",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._stadium_barricade.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._stadium_barricade"
+    },
+    {
+        "name": "worlds_world_22_22._hades_exit",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._hades_exit.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._hades_exit"
+    },
+    {
+        "name": "worlds_world_6_06._gym_robo-wrecker",
+        "type": "toggle",
+        "img": "images/items/worlds_world_6_06._gym_robo-wrecker.png",
+        "img_mods": "",
+        "codes": "worlds_world_6_06._gym_robo-wrecker"
+    },
+    {
+        "name": "moves_yellow_leg_scissors",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_leg_scissors.png",
+        "img_mods": "",
+        "codes": "moves_yellow_leg_scissors"
+    },
+    {
+        "name": "worlds_world_8_08._gym_thigh_rider",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._gym_thigh_rider.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._gym_thigh_rider"
+    },
+    {
+        "name": "worlds_world_8_08._solar_plexia_academy",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._solar_plexia_academy.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._solar_plexia_academy"
+    },
+    {
+        "name": "worlds_world_15_15._south_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._south_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._south_road"
+    },
+    {
+        "name": "worlds_world_6_06._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_6_06._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_6_06._gym_battle_gym"
+    },
+    {
+        "name": "rhythm_games_battle_gym",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_battle_gym.png",
+        "img_mods": "",
+        "codes": "rhythm_games_battle_gym"
+    },
+    {
+        "name": "worlds_world_20_20._glowskin_ridge",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._glowskin_ridge.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._glowskin_ridge"
+    },
+    {
+        "name": "moves_blue_squat",
+        "type": "toggle",
+        "img": "images/items/moves_blue_squat.png",
+        "img_mods": "",
+        "codes": "moves_blue_squat"
+    },
+    {
+        "name": "worlds_world_21_21._gym_robo-wrecker",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._gym_robo-wrecker.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._gym_robo-wrecker"
+    },
+    {
+        "name": "worlds_world_11_11._river_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._river_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._river_road"
+    },
+    {
+        "name": "rhythm_games_ground_theme_band_performance_-_super_mario_bros.",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_ground_theme_band_performance_-_super_mario_bros..png",
+        "img_mods": "",
+        "codes": "rhythm_games_ground_theme_band_performance_-_super_mario_bros."
+    },
+    {
+        "name": "worlds_world_20_20._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._gym_battle_gym"
+    },
+    {
+        "name": "worlds_world_12_12._mt._fearmenot",
+        "type": "toggle",
+        "img": "images/items/worlds_world_12_12._mt._fearmenot.png",
+        "img_mods": "",
+        "codes": "worlds_world_12_12._mt._fearmenot"
+    },
+    {
+        "name": "worlds_world_21_21._whirling_halls",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._whirling_halls.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._whirling_halls"
+    },
+    {
+        "name": "worlds_world_5_05._stopfoot_waters",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._stopfoot_waters.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._stopfoot_waters"
+    },
+    {
+        "name": "worlds_world_19_19._gym_dreadmill",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._gym_dreadmill.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._gym_dreadmill"
+    },
+    {
+        "name": "moves_green_tree_pose",
+        "type": "toggle",
+        "img": "images/items/moves_green_tree_pose.png",
+        "img_mods": "",
+        "codes": "moves_green_tree_pose"
+    },
+    {
+        "name": "worlds_world_14_14._ghostship_tower",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._ghostship_tower.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._ghostship_tower"
+    },
+    {
+        "name": "worlds_world_10_10._gym_robo-wrecker",
+        "type": "toggle",
+        "img": "images/items/worlds_world_10_10._gym_robo-wrecker.png",
+        "img_mods": "",
+        "codes": "worlds_world_10_10._gym_robo-wrecker"
+    },
+    {
+        "name": "smoothies_ultimate_green_smoothie",
+        "type": "toggle",
+        "img": "images/items/smoothies_ultimate_green_smoothie.png",
+        "img_mods": "",
+        "codes": "smoothies_ultimate_green_smoothie"
+    },
+    {
+        "name": "worlds_world_8_08._dangling_overpass",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._dangling_overpass.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._dangling_overpass"
+    },
+    {
+        "name": "worlds_world_23_23._irrevocable_river",
+        "type": "toggle",
+        "img": "images/items/worlds_world_23_23._irrevocable_river.png",
+        "img_mods": "",
+        "codes": "worlds_world_23_23._irrevocable_river"
+    },
+    {
+        "name": "worlds_world_17_17._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_17_17._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_17_17._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_8_08._springboard_shrine",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._springboard_shrine.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._springboard_shrine"
+    },
+    {
+        "name": "worlds_world_4_04._gym_core_crushing",
+        "type": "toggle",
+        "img": "images/items/worlds_world_4_04._gym_core_crushing.png",
+        "img_mods": "",
+        "codes": "worlds_world_4_04._gym_core_crushing"
+    },
+    {
+        "name": "worlds_world_17_17._hamstring_marsh",
+        "type": "toggle",
+        "img": "images/items/worlds_world_17_17._hamstring_marsh.png",
+        "img_mods": "",
+        "codes": "worlds_world_17_17._hamstring_marsh"
+    },
+    {
+        "name": "moves_red_tricep_kickback",
+        "type": "toggle",
+        "img": "images/items/moves_red_tricep_kickback.png",
+        "img_mods": "",
+        "codes": "moves_red_tricep_kickback"
+    },
+    {
+        "name": "worlds_world_22_22._gym_bootstrap_tower",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._gym_bootstrap_tower.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._gym_bootstrap_tower"
+    },
+    {
+        "name": "worlds_world_2_02._gym_robo_wrecker",
+        "type": "toggle",
+        "img": "images/items/worlds_world_2_02._gym_robo_wrecker.png",
+        "img_mods": "",
+        "codes": "worlds_world_2_02._gym_robo_wrecker"
+    },
+    {
+        "name": "worlds_world_12_12._soleus_gold_mine",
+        "type": "toggle",
+        "img": "images/items/worlds_world_12_12._soleus_gold_mine.png",
+        "img_mods": "",
+        "codes": "worlds_world_12_12._soleus_gold_mine"
+    },
+    {
+        "name": "worlds_world_22_22._li'l_grrr's_house",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._li'l_grrr's_house.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._li'l_grrr's_house"
+    },
+    {
+        "name": "moves_red_overhead_press",
+        "type": "toggle",
+        "img": "images/items/moves_red_overhead_press.png",
+        "img_mods": "",
+        "codes": "moves_red_overhead_press"
+    },
+    {
+        "name": "worlds_world_9_09._pushpull_shrine",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._pushpull_shrine.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._pushpull_shrine"
+    },
+    {
+        "name": "worlds_world_15_15._stumper_tower",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._stumper_tower.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._stumper_tower"
+    },
+    {
+        "name": "worlds_world_16_16._gym_bank_balance",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._gym_bank_balance.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._gym_bank_balance"
+    },
+    {
+        "name": "worlds_world_8_08._drench_trench",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._drench_trench.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._drench_trench"
+    },
+    {
+        "name": "worlds_world_16_16._pushover_corridor",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._pushover_corridor.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._pushover_corridor"
+    },
+    {
+        "name": "worlds_world_11_11._rumbling_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._rumbling_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._rumbling_road"
+    },
+    {
+        "name": "worlds_world_2_02._disturbance_meadow",
+        "type": "toggle",
+        "img": "images/items/worlds_world_2_02._disturbance_meadow.png",
+        "img_mods": "",
+        "codes": "worlds_world_2_02._disturbance_meadow"
+    },
+    {
+        "name": "worlds_world_16_16._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_22_22._calm_cloister",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._calm_cloister.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._calm_cloister"
+    },
+    {
+        "name": "worlds_world_8_08._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._gym_battle_gym"
+    },
+    {
+        "name": "moves_yellow_leg_raise",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_leg_raise.png",
+        "img_mods": "",
+        "codes": "moves_yellow_leg_raise"
+    },
+    {
+        "name": "worlds_world_13_13._gym_squattery_wheel",
+        "type": "toggle",
+        "img": "images/items/worlds_world_13_13._gym_squattery_wheel.png",
+        "img_mods": "",
+        "codes": "worlds_world_13_13._gym_squattery_wheel"
+    },
+    {
+        "name": "worlds_world_9_09._otherside_street",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._otherside_street.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._otherside_street"
+    },
+    {
+        "name": "worlds_world_3_03._gym_gluting_gallery",
+        "type": "toggle",
+        "img": "images/items/worlds_world_3_03._gym_gluting_gallery.png",
+        "img_mods": "",
+        "codes": "worlds_world_3_03._gym_gluting_gallery"
+    },
+    {
+        "name": "worlds_world_14_14._invisible_temple",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._invisible_temple.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._invisible_temple"
+    },
+    {
+        "name": "worlds_world_18_18._freezing_freeway",
+        "type": "toggle",
+        "img": "images/items/worlds_world_18_18._freezing_freeway.png",
+        "img_mods": "",
+        "codes": "worlds_world_18_18._freezing_freeway"
+    },
+    {
+        "name": "worlds_world_18_18._snowflurry_valley",
+        "type": "toggle",
+        "img": "images/items/worlds_world_18_18._snowflurry_valley.png",
+        "img_mods": "",
+        "codes": "worlds_world_18_18._snowflurry_valley"
+    },
+    {
+        "name": "worlds_world_21_21._gym_core_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._gym_core_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._gym_core_set"
+    },
+    {
+        "name": "rhythm_games_dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "rhythm_games_dragaux_stadium"
+    },
+    {
+        "name": "rhythm_games_fit_battle",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_fit_battle.png",
+        "img_mods": "",
+        "codes": "rhythm_games_fit_battle"
+    },
+    {
+        "name": "worlds_world_17_17._gym_stamina_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_17_17._gym_stamina_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_17_17._gym_stamina_set"
+    },
+    {
+        "name": "smoothies_ultimate_red_smoothie",
+        "type": "toggle",
+        "img": "images/items/smoothies_ultimate_red_smoothie.png",
+        "img_mods": "",
+        "codes": "smoothies_ultimate_red_smoothie"
+    },
+    {
+        "name": "worlds_world_15_15._aerohead_road",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._aerohead_road.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._aerohead_road"
+    },
+    {
+        "name": "moves_green_standing_forward_fold",
+        "type": "toggle",
+        "img": "images/items/moves_green_standing_forward_fold.png",
+        "img_mods": "",
+        "codes": "moves_green_standing_forward_fold"
+    },
+    {
+        "name": "worlds_world_8_08._gym_bank_balance",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._gym_bank_balance.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._gym_bank_balance"
+    },
+    {
+        "name": "worlds_world_5_05._temple_of_balance",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._temple_of_balance.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._temple_of_balance"
+    },
+    {
+        "name": "worlds_world_18_18._gym_shoulders_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_18_18._gym_shoulders_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_18_18._gym_shoulders_set"
+    },
+    {
+        "name": "worlds_world_3_03._bridge_of_insight",
+        "type": "toggle",
+        "img": "images/items/worlds_world_3_03._bridge_of_insight.png",
+        "img_mods": "",
+        "codes": "worlds_world_3_03._bridge_of_insight"
+    },
+    {
+        "name": "worlds_world_5_05._gym_legs_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._gym_legs_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._gym_legs_set"
+    },
+    {
+        "name": "worlds_world_14_14._six_park",
+        "type": "toggle",
+        "img": "images/items/worlds_world_14_14._six_park.png",
+        "img_mods": "",
+        "codes": "worlds_world_14_14._six_park"
+    },
+    {
+        "name": "worlds_world_8_08._secluded_shrine_approach",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._secluded_shrine_approach.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._secluded_shrine_approach"
+    },
+    {
+        "name": "worlds_world_22_22._gym_dreadmill",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._gym_dreadmill.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._gym_dreadmill"
+    },
+    {
+        "name": "worlds_world_6_06._temple_of_balance",
+        "type": "toggle",
+        "img": "images/items/worlds_world_6_06._temple_of_balance.png",
+        "img_mods": "",
+        "codes": "worlds_world_6_06._temple_of_balance"
+    },
+    {
+        "name": "worlds_world_8_08._talisman_trail",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._talisman_trail.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._talisman_trail"
+    },
+    {
+        "name": "worlds_world_1_01._transient_temple",
+        "type": "toggle",
+        "img": "images/items/worlds_world_1_01._transient_temple.png",
+        "img_mods": "",
+        "codes": "worlds_world_1_01._transient_temple"
+    },
+    {
+        "name": "moves_yellow_flutter_kick",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_flutter_kick.png",
+        "img_mods": "",
+        "codes": "moves_yellow_flutter_kick"
+    },
+    {
+        "name": "moves_yellow_seated_ring_raise",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_seated_ring_raise.png",
+        "img_mods": "",
+        "codes": "moves_yellow_seated_ring_raise"
+    },
+    {
+        "name": "worlds_world_13_13._gym_posture_set",
+        "type": "toggle",
+        "img": "images/items/worlds_world_13_13._gym_posture_set.png",
+        "img_mods": "",
+        "codes": "worlds_world_13_13._gym_posture_set"
+    },
+    {
+        "name": "moves_blue_knee-lift_combo",
+        "type": "toggle",
+        "img": "images/items/moves_blue_knee-lift_combo.png",
+        "img_mods": "",
+        "codes": "moves_blue_knee-lift_combo"
+    },
+    {
+        "name": "moves_red_overhead_arm_spin",
+        "type": "toggle",
+        "img": "images/items/moves_red_overhead_arm_spin.png",
+        "img_mods": "",
+        "codes": "moves_red_overhead_arm_spin"
+    },
+    {
+        "name": "worlds_world_18_18._shivering_valley",
+        "type": "toggle",
+        "img": "images/items/worlds_world_18_18._shivering_valley.png",
+        "img_mods": "",
+        "codes": "worlds_world_18_18._shivering_valley"
+    },
+    {
+        "name": "worlds_world_21_21._soaring_valley",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._soaring_valley.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._soaring_valley"
+    },
+    {
+        "name": "rhythm_games_gainful_boss_fight",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_gainful_boss_fight.png",
+        "img_mods": "",
+        "codes": "rhythm_games_gainful_boss_fight"
+    },
+    {
+        "name": "worlds_world_18_18._gym_core_crushing",
+        "type": "toggle",
+        "img": "images/items/worlds_world_18_18._gym_core_crushing.png",
+        "img_mods": "",
+        "codes": "worlds_world_18_18._gym_core_crushing"
+    },
+    {
+        "name": "worlds_world_22_22._yogana",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._yogana.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._yogana"
+    },
+    {
+        "name": "worlds_world_8_08._gym_crate_crasher",
+        "type": "toggle",
+        "img": "images/items/worlds_world_8_08._gym_crate_crasher.png",
+        "img_mods": "",
+        "codes": "worlds_world_8_08._gym_crate_crasher"
+    },
+    {
+        "name": "worlds_world_18_18._chief's_foyer",
+        "type": "toggle",
+        "img": "images/items/worlds_world_18_18._chief's_foyer.png",
+        "img_mods": "",
+        "codes": "worlds_world_18_18._chief's_foyer"
+    },
+    {
+        "name": "worlds_world_22_22._gunsho_temple",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._gunsho_temple.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._gunsho_temple"
+    },
+    {
+        "name": "worlds_world_4_04._sportan_highway",
+        "type": "toggle",
+        "img": "images/items/worlds_world_4_04._sportan_highway.png",
+        "img_mods": "",
+        "codes": "worlds_world_4_04._sportan_highway"
+    },
+    {
+        "name": "worlds_world_15_15._condensation_corridor",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._condensation_corridor.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._condensation_corridor"
+    },
+    {
+        "name": "moves_yellow_standing_twist",
+        "type": "toggle",
+        "img": "images/items/moves_yellow_standing_twist.png",
+        "img_mods": "",
+        "codes": "moves_yellow_standing_twist"
+    },
+    {
+        "name": "worlds_world_9_09._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_9_09._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_9_09._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_4_04._sportan_swamp",
+        "type": "toggle",
+        "img": "images/items/worlds_world_4_04._sportan_swamp.png",
+        "img_mods": "",
+        "codes": "worlds_world_4_04._sportan_swamp"
+    },
+    {
+        "name": "worlds_world_16_16._perseverance_valley",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._perseverance_valley.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._perseverance_valley"
+    },
+    {
+        "name": "moves_blue_thigh_press",
+        "type": "toggle",
+        "img": "images/items/moves_blue_thigh_press.png",
+        "img_mods": "",
+        "codes": "moves_blue_thigh_press"
+    },
+    {
+        "name": "worlds_world_10_10._fusion_waterway",
+        "type": "toggle",
+        "img": "images/items/worlds_world_10_10._fusion_waterway.png",
+        "img_mods": "",
+        "codes": "worlds_world_10_10._fusion_waterway"
+    },
+    {
+        "name": "worlds_world_16_16._gym_squat_goals",
+        "type": "toggle",
+        "img": "images/items/worlds_world_16_16._gym_squat_goals.png",
+        "img_mods": "",
+        "codes": "worlds_world_16_16._gym_squat_goals"
+    },
+    {
+        "name": "worlds_world_3_03._dragaux_stadium",
+        "type": "toggle",
+        "img": "images/items/worlds_world_3_03._dragaux_stadium.png",
+        "img_mods": "",
+        "codes": "worlds_world_3_03._dragaux_stadium"
+    },
+    {
+        "name": "worlds_world_11_11._valley_of_wishes",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._valley_of_wishes.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._valley_of_wishes"
+    },
+    {
+        "name": "worlds_world_12_12._upsurge_studio",
+        "type": "toggle",
+        "img": "images/items/worlds_world_12_12._upsurge_studio.png",
+        "img_mods": "",
+        "codes": "worlds_world_12_12._upsurge_studio"
+    },
+    {
+        "name": "worlds_world_6_06._beaut_camp",
+        "type": "toggle",
+        "img": "images/items/worlds_world_6_06._beaut_camp.png",
+        "img_mods": "",
+        "codes": "worlds_world_6_06._beaut_camp"
+    },
+    {
+        "name": "worlds_world_5_05._gym_aerochute",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._gym_aerochute.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._gym_aerochute"
+    },
+    {
+        "name": "worlds_world_13_13._gym_smack_back",
+        "type": "toggle",
+        "img": "images/items/worlds_world_13_13._gym_smack_back.png",
+        "img_mods": "",
+        "codes": "worlds_world_13_13._gym_smack_back"
+    },
+    {
+        "name": "moves_red_back_press",
+        "type": "toggle",
+        "img": "images/items/moves_red_back_press.png",
+        "img_mods": "",
+        "codes": "moves_red_back_press"
+    },
+    {
+        "name": "worlds_world_11_11._gym_dreadmill",
+        "type": "toggle",
+        "img": "images/items/worlds_world_11_11._gym_dreadmill.png",
+        "img_mods": "",
+        "codes": "worlds_world_11_11._gym_dreadmill"
+    },
+    {
+        "name": "worlds_world_22_22._exercise_paradise",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._exercise_paradise.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._exercise_paradise"
+    },
+    {
+        "name": "moves_green_revolved_crescent_lunge_pose",
+        "type": "toggle",
+        "img": "images/items/moves_green_revolved_crescent_lunge_pose.png",
+        "img_mods": "",
+        "codes": "moves_green_revolved_crescent_lunge_pose"
+    },
+    {
+        "name": "worlds_world_19_19._gym_smack_back",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._gym_smack_back.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._gym_smack_back"
+    },
+    {
+        "name": "worlds_world_10_10._floating_waterway",
+        "type": "toggle",
+        "img": "images/items/worlds_world_10_10._floating_waterway.png",
+        "img_mods": "",
+        "codes": "worlds_world_10_10._floating_waterway"
+    },
+    {
+        "name": "worlds_world_15_15._redflag_ring",
+        "type": "toggle",
+        "img": "images/items/worlds_world_15_15._redflag_ring.png",
+        "img_mods": "",
+        "codes": "worlds_world_15_15._redflag_ring"
+    },
+    {
+        "name": "worlds_world_20_20._marathon_field",
+        "type": "toggle",
+        "img": "images/items/worlds_world_20_20._marathon_field.png",
+        "img_mods": "",
+        "codes": "worlds_world_20_20._marathon_field"
+    },
+    {
+        "name": "worlds_world_22_22._uplift_temple",
+        "type": "toggle",
+        "img": "images/items/worlds_world_22_22._uplift_temple.png",
+        "img_mods": "",
+        "codes": "worlds_world_22_22._uplift_temple"
+    },
+    {
+        "name": "moves_blue_mountain_climber",
+        "type": "toggle",
+        "img": "images/items/moves_blue_mountain_climber.png",
+        "img_mods": "",
+        "codes": "moves_blue_mountain_climber"
+    },
+    {
+        "name": "worlds_world_10_10._finishing_school",
+        "type": "toggle",
+        "img": "images/items/worlds_world_10_10._finishing_school.png",
+        "img_mods": "",
+        "codes": "worlds_world_10_10._finishing_school"
+    },
+    {
+        "name": "moves_green_warrior_iii_pose",
+        "type": "toggle",
+        "img": "images/items/moves_green_warrior_iii_pose.png",
+        "img_mods": "",
+        "codes": "moves_green_warrior_iii_pose"
+    },
+    {
+        "name": "worlds_world_3_03._treasure_pass",
+        "type": "toggle",
+        "img": "images/items/worlds_world_3_03._treasure_pass.png",
+        "img_mods": "",
+        "codes": "worlds_world_3_03._treasure_pass"
+    },
+    {
+        "name": "rhythm_games_dragaux_battle",
+        "type": "toggle",
+        "img": "images/items/rhythm_games_dragaux_battle.png",
+        "img_mods": "",
+        "codes": "rhythm_games_dragaux_battle"
+    },
+    {
+        "name": "moves_red_bow_pull",
+        "type": "toggle",
+        "img": "images/items/moves_red_bow_pull.png",
+        "img_mods": "",
+        "codes": "moves_red_bow_pull"
+    },
+    {
+        "name": "worlds_world_21_21._gym_battle_gym",
+        "type": "toggle",
+        "img": "images/items/worlds_world_21_21._gym_battle_gym.png",
+        "img_mods": "",
+        "codes": "worlds_world_21_21._gym_battle_gym"
+    },
+    {
+        "name": "worlds_world_4_04._sporta_bridge",
+        "type": "toggle",
+        "img": "images/items/worlds_world_4_04._sporta_bridge.png",
+        "img_mods": "",
+        "codes": "worlds_world_4_04._sporta_bridge"
+    },
+    {
+        "name": "worlds_world_19_19._ohohoh_tower",
+        "type": "toggle",
+        "img": "images/items/worlds_world_19_19._ohohoh_tower.png",
+        "img_mods": "",
+        "codes": "worlds_world_19_19._ohohoh_tower"
+    },
+    {
+        "name": "worlds_world_5_05._loot_pass",
+        "type": "toggle",
+        "img": "images/items/worlds_world_5_05._loot_pass.png",
+        "img_mods": "",
+        "codes": "worlds_world_5_05._loot_pass"
+    }
+]

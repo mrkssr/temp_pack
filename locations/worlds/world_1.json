@@ -1,0 +1,58 @@
+[
+    {
+        "name": "World 1",
+        "children": [
+            {
+                "name": "01. Beginnia",
+                "sections": [
+                    {
+                        "ref": "Worlds/World 1/01. Beginnia",
+                        "name": "Show me, please"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "world_1",
+                        "x": 50,
+                        "y": 50,
+                        "size": 120
+                    }
+                ]
+            },
+            {
+                "name": "01. Transient Temple",
+                "sections": [
+                    {
+                        "ref": "Worlds/World 1/01. Transient Temple"
+                    }
+                ],
+                "access_rules": [],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "world_1",
+                        "x": 400,
+                        "y": 150
+                    }
+                ]
+            },
+            {
+                "name": "01. Dragaux Stadium",
+                "sections": [
+                    {
+                        "ref": "Worlds/World 1/01. Dragaux Stadium"
+                    }
+                ],
+                "access_rules": [],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "world_1",
+                        "x": 200,
+                        "y": 150
+                    }
+                ]
+            }
+        ]
+    }
+]
